@@ -9,3 +9,14 @@ steps to run tests:
   3) run this command on th sharat: python3 run_tests.py
   4) if all is okay then valgrind and diff is okay.
 
+
+
+if you want to create more tests, change generate_tests file and only this file!
+chnage variable NUM_OF_TESTS and generate output using this command in bash:
+
+for i in{1..NUM_OF_TESTS}
+do
+python3 generate_output.py ./input/$i.txt ./expected/$i.txt
+done
+
+
