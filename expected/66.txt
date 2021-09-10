@@ -1,0 +1,3 @@
+init done.
+getHighestScoredLabel: INVALID_INPUT
+quit done.

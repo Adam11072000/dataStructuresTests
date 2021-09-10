@@ -1,0 +1,6 @@
+init done.
+addImage: SUCCESS
+deleteImage: SUCCESS
+deleteImage: FAILURE
+addImage: SUCCESS
+quit done.

@@ -1,0 +1,7 @@
+init done.
+addImage: SUCCESS
+setLabelScore: SUCCESS
+addImage: SUCCESS
+getHighestScoredLabel: FAILURE
+mergeSuperPixels: SUCCESS
+quit done.

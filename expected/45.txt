@@ -1,0 +1,3 @@
+init done.
+resetLabelScore: FAILURE
+quit done.

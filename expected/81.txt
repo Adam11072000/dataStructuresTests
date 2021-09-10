@@ -1,0 +1,4 @@
+init done.
+deleteImage: FAILURE
+getHighestScoredLabel: INVALID_INPUT
+quit done.

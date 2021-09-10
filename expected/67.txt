@@ -1,0 +1,8 @@
+init done.
+setLabelScore: FAILURE
+addImage: SUCCESS
+addImage: SUCCESS
+setLabelScore: SUCCESS
+resetLabelScore: FAILURE
+addImage: SUCCESS
+quit done.

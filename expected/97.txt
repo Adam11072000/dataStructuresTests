@@ -1,0 +1,14 @@
+init done.
+setLabelScore: INVALID_INPUT
+addImage: INVALID_INPUT
+addImage: INVALID_INPUT
+setLabelScore: INVALID_INPUT
+addImage: SUCCESS
+addImage: SUCCESS
+mergeSuperPixels: INVALID_INPUT
+addImage: SUCCESS
+setLabelScore: INVALID_INPUT
+mergeSuperPixels: SUCCESS
+getHighestScoredLabel: FAILURE
+setLabelScore: INVALID_INPUT
+quit done.

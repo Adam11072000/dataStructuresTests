@@ -1,0 +1,10 @@
+init done.
+addImage: INVALID_INPUT
+getHighestScoredLabel: INVALID_INPUT
+addImage: SUCCESS
+addImage: INVALID_INPUT
+resetLabelScore: INVALID_INPUT
+addImage: SUCCESS
+addImage: INVALID_INPUT
+addImage: INVALID_INPUT
+quit done.

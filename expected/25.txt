@@ -1,0 +1,5 @@
+init done.
+getHighestScoredLabel: INVALID_INPUT
+addImage: INVALID_INPUT
+getHighestScoredLabel: INVALID_INPUT
+quit done.

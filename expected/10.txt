@@ -1,0 +1,5 @@
+init done.
+addImage: INVALID_INPUT
+deleteImage: FAILURE
+deleteImage: FAILURE
+quit done.

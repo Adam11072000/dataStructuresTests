@@ -1,0 +1,6 @@
+init done.
+resetLabelScore: INVALID_INPUT
+addImage: SUCCESS
+addImage: SUCCESS
+addImage: SUCCESS
+quit done.
