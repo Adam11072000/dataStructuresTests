@@ -316,7 +316,7 @@ def randomize_test(f):
 
 def main():
     for i in range(NUM_OF_TESTS):
-        filename = './tests/input/'.join((BASE_DIR, '%s.txt' % (i + 1)))
+        filename = '.input/'.join((BASE_DIR, '%s.txt' % (i + 1)))
         with open(filename, 'w') as f:
             randomize_test(f)
         print('Generated file %s' % (i + 1))
