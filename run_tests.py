@@ -24,10 +24,10 @@ BASE_MY_OUTPUT_DIR should be empty before first run.
 RUN_MY = True # Set to false if your code has not changed and you don't want to waste time
 RUN_DIFF = True
 
-BASE_INPUT_DIR = "./tests/input/"
-BASE_DESIRED_OUTPUT_DIR = "./tests/expected/"
-BASE_MY_OUTPUT_DIR = "./tests/output/"
-MY_EXEC = "./cmake-build-debug/wet2"
+BASE_INPUT_DIR = "./input/"
+BASE_DESIRED_OUTPUT_DIR = "./expected/"
+BASE_MY_OUTPUT_DIR = "./output/"
+MY_EXEC = "./wet2"
 
 if __name__ == '__main__':
     os.system("> valgrind_log.txt")
