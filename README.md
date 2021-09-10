@@ -20,3 +20,8 @@ python3 generate_output.py ./input/$i.txt ./expected/$i.txt
 done
 
 
+P.S delete .empty in output directory after download
+
+
+May the odds be ever in your favour!
+
