@@ -1,0 +1,3 @@
+init 6100
+resetLabelScore 2706 2653 6855
+quit

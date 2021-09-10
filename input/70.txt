@@ -1,0 +1,29 @@
+init 2547
+addImage 561
+setLabelScore 561 2156 6361 3999
+resetLabelScore 561 2232 0
+setLabelScore 561 2028 9893 7076
+setLabelScore 561 368 2247 2260
+deleteImage 0
+setLabelScore 482 1118 -6 15
+deleteImage 561
+addImage -2
+addImage 8840
+deleteImage 4332
+addImage 7160
+addImage 8840
+addImage -1
+addImage 1545
+setLabelScore 1545 2289 1886 9967
+addImage -9
+addImage -2
+setLabelScore 7160 980 1368 4233
+resetLabelScore 8840 1152 0
+deleteImage -1
+addImage -8
+addImage -2
+deleteImage 8840
+addImage -6
+addImage 7160
+addImage 5674
+quit

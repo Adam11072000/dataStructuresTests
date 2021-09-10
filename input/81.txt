@@ -1,0 +1,4 @@
+init 8312
+deleteImage 2085
+getHighestScoredLabel 3813 -7
+quit

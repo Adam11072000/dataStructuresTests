@@ -1,0 +1,7 @@
+init 8363
+addImage 9270
+setLabelScore 9270 928 206 7783
+addImage 7474
+getHighestScoredLabel 9270 3322
+mergeSuperPixels 9270 6885 0
+quit

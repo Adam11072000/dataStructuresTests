@@ -1,0 +1,5 @@
+init 1980
+addImage -4
+deleteImage 5525
+deleteImage 5322
+quit

@@ -1,0 +1,19 @@
+init 8186
+addImage 9588
+setLabelScore 3763 5967 8938 183
+resetLabelScore 9588 1188 0
+deleteImage 9588
+setLabelScore 1169 8194 7377 2931
+getHighestScoredLabel 7636 -5
+addImage -4
+getHighestScoredLabel 9092 -7
+deleteImage -6
+deleteImage 9678
+resetLabelScore 2604 3191 1585
+addImage -1
+mergeSuperPixels 3541 573 -10
+addImage -1
+addImage 8334
+deleteImage -8
+setLabelScore 8334 5755 7992 3234
+quit

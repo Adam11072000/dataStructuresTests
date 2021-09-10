@@ -1,0 +1,10 @@
+init 9554
+addImage 7857
+mergeSuperPixels 6676 1592 9563
+getHighestScoredLabel 7857 5902
+addImage 2754
+mergeSuperPixels 2754 441 0
+getHighestScoredLabel 7857 5541
+getHighestScoredLabel 7857 7470
+addImage 2754
+quit

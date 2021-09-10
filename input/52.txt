@@ -1,0 +1,13 @@
+init 4915
+addImage 4977
+addImage 4983
+addImage 4917
+addImage 4983
+mergeSuperPixels 4983 1276 3006
+resetLabelScore 4977 1263 0
+deleteImage 4917
+mergeSuperPixels 4983 360 0
+addImage 3663
+getHighestScoredLabel 4977 249
+resetLabelScore 5314 2446 3170
+quit

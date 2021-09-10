@@ -1,0 +1,14 @@
+init 3420
+resetLabelScore 8799 2758 -1
+resetLabelScore 5586 2821 9726
+addImage 6869
+addImage 8232
+addImage -5
+resetLabelScore 43 -8 4829
+resetLabelScore 457 2965 7783
+deleteImage 6869
+addImage 1005
+setLabelScore 1005 2275 1778 3320
+addImage 395
+setLabelScore 142 1603 9214 7818
+quit

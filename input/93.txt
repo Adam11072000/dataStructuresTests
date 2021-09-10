@@ -1,0 +1,3 @@
+init 722
+mergeSuperPixels 7181 58 -10
+quit

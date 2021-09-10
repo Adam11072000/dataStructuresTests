@@ -1,0 +1,6 @@
+init 2905
+deleteImage 161
+addImage 7019
+addImage 0
+addImage -1
+quit

@@ -1,0 +1,6 @@
+init 5831
+resetLabelScore 723 -1 6954
+addImage 3044
+addImage 2943
+addImage 1440
+quit

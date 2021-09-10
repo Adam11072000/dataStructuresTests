@@ -1,0 +1,5 @@
+init 5736
+getHighestScoredLabel 716 -1
+addImage -9
+getHighestScoredLabel 3748 -10
+quit

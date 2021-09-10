@@ -1,0 +1,12 @@
+init 2555
+deleteImage 9679
+addImage -3
+addImage 1125
+addImage 4618
+addImage -7
+addImage 5571
+addImage 4618
+getHighestScoredLabel 5571 815
+addImage -5
+addImage 4618
+quit

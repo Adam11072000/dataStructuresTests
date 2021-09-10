@@ -1,0 +1,3 @@
+init 757
+setLabelScore 3590 665 2670 -4
+quit

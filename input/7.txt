@@ -1,0 +1,7 @@
+init 5549
+mergeSuperPixels -6 4199 2662
+addImage -2
+addImage 837
+addImage 837
+addImage -2
+quit

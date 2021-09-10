@@ -1,0 +1,8 @@
+init 9318
+getHighestScoredLabel 8498 -8
+getHighestScoredLabel 370 -6
+addImage 2096
+resetLabelScore 4989 -5 3144
+resetLabelScore 2096 8867 0
+resetLabelScore 2096 179 0
+quit

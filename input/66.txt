@@ -1,0 +1,3 @@
+init 6981
+getHighestScoredLabel 0 6991
+quit

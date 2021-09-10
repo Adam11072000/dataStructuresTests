@@ -1,0 +1,1479 @@
+init 1625
+mergeSuperPixels 7488 1390 -9
+setLabelScore -3 1458 4567 6424
+setLabelScore 4412 -6 7386 3226
+resetLabelScore 8133 -8 7783
+resetLabelScore -9 148 36
+setLabelScore 573 676 1315 3324
+addImage 4044
+addImage 2067
+addImage 4044
+mergeSuperPixels 9132 -4 1194
+addImage -9
+addImage 3121
+addImage 6953
+setLabelScore 6953 178 3444 5534
+setLabelScore 2285 1340 -1 8643
+getHighestScoredLabel 3121 1245
+resetLabelScore 3121 978 0
+addImage 892
+mergeSuperPixels 6953 774 0
+mergeSuperPixels 4890 457 1564
+getHighestScoredLabel 3121 856
+addImage 1787
+setLabelScore 2067 3 337 8079
+addImage 558
+setLabelScore 3121 998 911 6605
+setLabelScore 4877 320 6430 9715
+resetLabelScore -3 709 4753
+getHighestScoredLabel 3121 1537
+addImage -6
+mergeSuperPixels 558 804 0
+addImage 3691
+addImage -1
+setLabelScore 3121 1283 1693 1837
+mergeSuperPixels 1253 239 -10
+mergeSuperPixels 3121 960 0
+mergeSuperPixels 6953 1397 1
+getHighestScoredLabel 558 1568
+resetLabelScore 9254 631 2106
+setLabelScore 1239 500 4983 -9
+setLabelScore 6769 -2 61 559
+getHighestScoredLabel 0 1631
+setLabelScore 6953 459 4984 1776
+resetLabelScore 5534 1312 3246
+addImage 3121
+addImage 131
+mergeSuperPixels 2067 1600 0
+setLabelScore 6203 1464 0 7161
+getHighestScoredLabel 558 813
+setLabelScore 4044 198 2234 4379
+mergeSuperPixels 6190 661 1537
+addImage 5988
+setLabelScore -5 1478 5114 6205
+setLabelScore -5 940 5042 1721
+addImage 8536
+addImage 1120
+addImage 6884
+addImage -4
+getHighestScoredLabel 6953 1590
+resetLabelScore -5 1619 1147
+mergeSuperPixels 6884 757 0
+getHighestScoredLabel 8536 139
+getHighestScoredLabel 131 65
+addImage 3480
+resetLabelScore 7883 1634 6867
+addImage 7354
+resetLabelScore 3480 1561 0
+getHighestScoredLabel 3480 1150
+mergeSuperPixels 5988 418 0
+setLabelScore 6953 565 124 3682
+resetLabelScore 2562 1355 -7
+mergeSuperPixels 1389 -3 383
+getHighestScoredLabel 3691 229
+setLabelScore 3691 1416 422 8820
+getHighestScoredLabel 1787 818
+setLabelScore 7559 1548 5874 -8
+mergeSuperPixels 3831 -4 621
+addImage 6229
+getHighestScoredLabel 7354 1148
+addImage 3069
+mergeSuperPixels -6 944 193
+setLabelScore 4044 599 640 6844
+addImage -1
+addImage -9
+getHighestScoredLabel 6953 896
+setLabelScore 2940 464 1466 4006
+resetLabelScore 5542 1553 4280
+setLabelScore 8536 1176 8613 6954
+getHighestScoredLabel 5988 790
+addImage 8536
+resetLabelScore 2323 1479 9384
+addImage 8824
+setLabelScore 3069 687 2427 4760
+resetLabelScore 7169 452 6736
+mergeSuperPixels 131 74 0
+resetLabelScore 8824 261 0
+addImage 1066
+mergeSuperPixels 8824 66 0
+addImage 9642
+setLabelScore 1787 662 3046 6905
+setLabelScore 6953 986 2413 3676
+addImage 2951
+setLabelScore 131 903 2445 508
+mergeSuperPixels 6953 608 2
+mergeSuperPixels 6884 1118 1
+setLabelScore 2067 1469 4238 5232
+mergeSuperPixels 4443 525 -6
+addImage 1352
+setLabelScore 8536 691 8212 1235
+mergeSuperPixels 1787 12 0
+getHighestScoredLabel 1120 1158
+resetLabelScore 7497 1630 8374
+mergeSuperPixels 3480 1589 0
+setLabelScore 8536 1409 3353 5417
+setLabelScore 131 1285 8307 3501
+setLabelScore -3 1623 4543 6222
+addImage 450
+getHighestScoredLabel 131 999
+deleteImage 558
+mergeSuperPixels 3119 133 1630
+mergeSuperPixels -4 1556 1347
+resetLabelScore 1817 1634 1623
+mergeSuperPixels 9642 403 188
+resetLabelScore 520 -2 3406
+mergeSuperPixels 131 742 1
+addImage 479
+deleteImage -10
+addImage 9323
+addImage 450
+resetLabelScore 9068 1367 -9
+mergeSuperPixels 479 136 0
+resetLabelScore 3069 744 0
+resetLabelScore 9642 348 0
+mergeSuperPixels 9642 145 0
+addImage -6
+setLabelScore 2067 393 8996 2577
+deleteImage -1
+setLabelScore 6272 732 3795 3429
+deleteImage 8351
+addImage -10
+mergeSuperPixels 6953 744 3
+setLabelScore 1066 929 8560 204
+getHighestScoredLabel 2951 1183
+addImage 6229
+setLabelScore 2958 1020 -8 798
+setLabelScore 9323 1197 9417 7114
+resetLabelScore 5960 -1 8034
+resetLabelScore 5988 452 0
+addImage 4444
+getHighestScoredLabel 3121 522
+addImage 4626
+resetLabelScore 0 1431 8323
+addImage 1714
+addImage 6657
+mergeSuperPixels 1066 710 0
+addImage -1
+addImage 7993
+setLabelScore 2067 1550 1368 8967
+setLabelScore 3691 159 5917 4103
+getHighestScoredLabel 479 1546
+addImage 5714
+addImage 7289
+resetLabelScore 9952 -3 5409
+resetLabelScore 3578 1368 1385
+resetLabelScore 4626 664 0
+resetLabelScore 8973 1549 -2
+setLabelScore 6229 478 2241 4328
+resetLabelScore 6401 493 3109
+addImage 3620
+resetLabelScore -7 1541 9123
+resetLabelScore 7768 1635 4734
+setLabelScore 1352 1220 7562 4772
+getHighestScoredLabel 3691 375
+getHighestScoredLabel 7993 765
+resetLabelScore 9642 1335 0
+mergeSuperPixels 2333 423 -8
+resetLabelScore 1082 1219 6806
+setLabelScore 5714 1392 2863 2890
+mergeSuperPixels 1787 1119 1
+mergeSuperPixels -9 61 874
+resetLabelScore 2184 77 1960
+addImage 4444
+addImage -7
+mergeSuperPixels 2067 1077 1
+getHighestScoredLabel 7289 885
+mergeSuperPixels 1352 1461 0
+setLabelScore 7993 492 3903 3739
+mergeSuperPixels 4044 744 0
+addImage -10
+setLabelScore 9204 1630 1504 9828
+resetLabelScore 2223 1568 -5
+resetLabelScore 9228 1626 3712
+addImage -4
+resetLabelScore -2 1515 5769
+mergeSuperPixels 5988 1577 1578
+setLabelScore 4444 321 8904 1369
+setLabelScore 8824 1194 3279 9405
+addImage 7354
+mergeSuperPixels 4444 325 71
+setLabelScore 4444 146 2167 9573
+resetLabelScore 5906 882 4965
+resetLabelScore 8667 -6 3302
+addImage 892
+setLabelScore 5815 1216 -6 9515
+resetLabelScore 8824 448 0
+setLabelScore 1352 898 7464 6090
+setLabelScore 938 590 9050 -3
+setLabelScore 6953 290 112 8737
+getHighestScoredLabel 1714 460
+resetLabelScore -6 1165 571
+getHighestScoredLabel 7993 1168
+mergeSuperPixels 743 -5 1378
+resetLabelScore 4444 826 0
+resetLabelScore 3069 402 0
+addImage 8702
+mergeSuperPixels 1163 1633 1588
+addImage 102
+addImage 8946
+setLabelScore 1840 903 284 9009
+setLabelScore 81 686 9344 8137
+getHighestScoredLabel 131 0
+mergeSuperPixels 1352 1425 273
+getHighestScoredLabel 6229 1393
+setLabelScore 3836 248 -2 4819
+setLabelScore 3480 1327 2874 3713
+mergeSuperPixels 4713 -7 1193
+addImage 3064
+deleteImage -7
+mergeSuperPixels 4444 1352 0
+setLabelScore 3121 14 6104 8323
+setLabelScore 2464 1307 2242 -4
+addImage 131
+resetLabelScore 4626 627 0
+resetLabelScore 2951 237 0
+setLabelScore 1352 882 4501 3057
+setLabelScore 3274 -10 3164 3635
+getHighestScoredLabel 2951 713
+getHighestScoredLabel 1352 1382
+mergeSuperPixels 8824 1051 1
+getHighestScoredLabel 102 1027
+getHighestScoredLabel 6953 293
+mergeSuperPixels 7993 1448 0
+mergeSuperPixels 3121 1622 1
+setLabelScore 3620 1585 6457 7334
+getHighestScoredLabel 892 1490
+mergeSuperPixels 8536 1071 345
+addImage -2
+resetLabelScore -4 1390 4796
+setLabelScore 4626 374 8508 4615
+mergeSuperPixels 1787 443 2
+addImage 316
+getHighestScoredLabel 0 1629
+setLabelScore 8946 966 4892 4715
+resetLabelScore 6816 1151 9881
+mergeSuperPixels 7289 1306 839
+addImage 9037
+mergeSuperPixels 7993 585 1
+setLabelScore 9818 1023 8911 -1
+resetLabelScore 8411 887 7954
+mergeSuperPixels 6657 734 0
+getHighestScoredLabel 3691 1011
+setLabelScore 6953 1505 6451 9573
+resetLabelScore 2771 391 -4
+getHighestScoredLabel 4044 1443
+addImage -3
+mergeSuperPixels 3121 513 2
+setLabelScore 5909 458 51 2451
+setLabelScore 1714 985 5524 7851
+setLabelScore 2037 1096 4999 -4
+addImage 9419
+getHighestScoredLabel 3069 866
+getHighestScoredLabel 1352 529
+resetLabelScore 316 69 0
+getHighestScoredLabel 316 655
+getHighestScoredLabel 8702 1249
+mergeSuperPixels 1714 520 0
+resetLabelScore 8946 544 0
+setLabelScore 4082 1394 -6 6416
+mergeSuperPixels -2 511 1478
+resetLabelScore 1355 -5 6393
+mergeSuperPixels 1466 -9 1210
+getHighestScoredLabel 3620 107
+getHighestScoredLabel 7993 935
+mergeSuperPixels 7354 977 1438
+mergeSuperPixels 6148 -6 634
+setLabelScore 6663 951 8188 2339
+setLabelScore 7354 939 8381 9808
+deleteImage 3620
+addImage 8536
+mergeSuperPixels 6657 571 1
+mergeSuperPixels 6229 127 127
+setLabelScore 3691 365 9365 6231
+resetLabelScore 450 157 0
+mergeSuperPixels 1787 604 3
+deleteImage 3691
+mergeSuperPixels 9733 1041 -7
+addImage 450
+resetLabelScore 5938 126 -5
+resetLabelScore 5988 1418 0
+resetLabelScore 8418 -6 7375
+getHighestScoredLabel 1120 345
+resetLabelScore 6766 1626 9357
+addImage 6162
+mergeSuperPixels 1787 1598 4
+setLabelScore 316 411 2981 4436
+resetLabelScore -3 253 7923
+resetLabelScore -1 1404 7504
+addImage 6953
+mergeSuperPixels 1714 489 1
+addImage 8702
+addImage 2262
+mergeSuperPixels 7993 307 2
+setLabelScore 2779 1081 7493 8128
+getHighestScoredLabel 8702 306
+getHighestScoredLabel 2067 473
+mergeSuperPixels 7677 619 1331
+mergeSuperPixels 5988 645 1072
+getHighestScoredLabel 1066 595
+mergeSuperPixels 9037 1303 0
+setLabelScore 9642 949 2385 9015
+mergeSuperPixels 4198 246 -4
+mergeSuperPixels 2431 1346 -10
+setLabelScore 8609 113 -1 4539
+setLabelScore 5988 776 6590 3639
+getHighestScoredLabel 131 1027
+mergeSuperPixels 3368 1629 18
+deleteImage 6840
+getHighestScoredLabel 316 1471
+mergeSuperPixels 2902 1318 -4
+setLabelScore 102 434 8824 5781
+addImage 9419
+mergeSuperPixels 8946 878 0
+resetLabelScore -6 1298 8229
+resetLabelScore 8240 1633 3006
+addImage 7008
+resetLabelScore 1603 -4 7375
+setLabelScore 5714 464 1717 3236
+mergeSuperPixels 6657 1357 2
+addImage 7850
+setLabelScore 102 423 8431 3776
+mergeSuperPixels 9419 239 0
+mergeSuperPixels 3069 1148 0
+setLabelScore 1714 813 7363 868
+mergeSuperPixels 7850 491 0
+mergeSuperPixels 1787 57 5
+getHighestScoredLabel 892 586
+mergeSuperPixels 2067 752 2
+addImage 1271
+deleteImage 4915
+resetLabelScore 6746 1478 -6
+setLabelScore 7289 33 5073 3719
+getHighestScoredLabel 1714 390
+addImage 4626
+resetLabelScore -10 1590 5394
+addImage 3936
+addImage -7
+setLabelScore 9419 1166 6554 8378
+getHighestScoredLabel 6884 1210
+resetLabelScore 7729 222 2443
+getHighestScoredLabel 450 853
+resetLabelScore 146 1280 7389
+mergeSuperPixels 3121 1284 288
+addImage 9883
+addImage 102
+getHighestScoredLabel 9037 922
+mergeSuperPixels 9037 1073 1
+mergeSuperPixels 3121 1584 1563
+addImage 9037
+mergeSuperPixels 7354 523 0
+setLabelScore 8536 1062 7731 892
+resetLabelScore 0 614 9216
+mergeSuperPixels 4044 538 1
+mergeSuperPixels 7850 153 1
+setLabelScore 6953 520 1236 1411
+mergeSuperPixels 1714 779 2
+mergeSuperPixels 7993 431 3
+mergeSuperPixels 8578 1081 1419
+resetLabelScore 776 1631 654
+mergeSuperPixels 3480 1285 1
+mergeSuperPixels 9037 870 2
+addImage -10
+addImage 5714
+mergeSuperPixels 1787 1494 371
+mergeSuperPixels 1976 1627 578
+mergeSuperPixels 5714 1565 1548
+deleteImage 6884
+mergeSuperPixels 7289 130 0
+deleteImage 1714
+setLabelScore -10 963 868 7594
+setLabelScore 4686 498 5880 -3
+setLabelScore 8777 1073 2403 7848
+mergeSuperPixels 7993 829 4
+mergeSuperPixels 8536 923 0
+setLabelScore 316 490 7700 4884
+mergeSuperPixels 5988 7 1
+resetLabelScore -2 41 1062
+mergeSuperPixels -1 981 345
+setLabelScore 892 724 8546 4376
+setLabelScore 7008 909 2479 1817
+getHighestScoredLabel 9323 989
+mergeSuperPixels 8702 1023 0
+mergeSuperPixels -9 612 467
+deleteImage -8
+resetLabelScore 8275 1629 4281
+addImage -5
+mergeSuperPixels 283 1042 505
+mergeSuperPixels 1154 1543 -7
+addImage 8285
+mergeSuperPixels 8721 1122 57
+setLabelScore 6229 808 5507 6880
+mergeSuperPixels 1120 881 0
+resetLabelScore 1787 878 0
+addImage 6791
+resetLabelScore 2816 1635 7776
+getHighestScoredLabel 4626 673
+setLabelScore 3559 17 699 2251
+addImage 294
+resetLabelScore 9580 1623 -4
+setLabelScore 5923 1631 9456 39
+mergeSuperPixels 7076 1635 78
+setLabelScore 9319 778 -6 6896
+getHighestScoredLabel 3480 1271
+mergeSuperPixels 4626 1122 0
+setLabelScore 6761 1627 4332 7136
+deleteImage 2037
+getHighestScoredLabel 7993 72
+mergeSuperPixels -3 962 678
+setLabelScore 8946 758 4029 3091
+setLabelScore 4093 1595 8785 4178
+mergeSuperPixels 6162 978 0
+deleteImage 5371
+setLabelScore 3936 160 5625 8880
+addImage 9037
+setLabelScore 8702 209 5381 878
+addImage 7089
+resetLabelScore 3324 564 -1
+setLabelScore 6285 956 -6 2593
+getHighestScoredLabel 8536 530
+addImage 5686
+resetLabelScore 2808 658 -7
+mergeSuperPixels 9089 585 -3
+addImage -6
+mergeSuperPixels 131 302 2
+mergeSuperPixels 421 -7 552
+addImage -4
+setLabelScore 1885 1608 5636 8820
+addImage 9642
+setLabelScore 450 1326 4570 1344
+getHighestScoredLabel 6162 839
+getHighestScoredLabel 1271 945
+setLabelScore 1787 1087 -3 5074
+mergeSuperPixels 9323 1398 0
+resetLabelScore 2135 1629 5253
+resetLabelScore 9642 1503 0
+setLabelScore -3 303 530 493
+mergeSuperPixels 3480 1457 2
+resetLabelScore 8824 1458 0
+resetLabelScore 1696 1023 9183
+getHighestScoredLabel 2067 1607
+resetLabelScore 294 896 0
+getHighestScoredLabel 2067 1411
+setLabelScore 7915 1583 0 1057
+getHighestScoredLabel 102 319
+addImage 9369
+getHighestScoredLabel 2951 1036
+addImage 2245
+resetLabelScore 1140 1625 171
+setLabelScore 8285 568 7071 6538
+mergeSuperPixels 6229 1077 735
+mergeSuperPixels 4626 617 1
+resetLabelScore 8965 242 -1
+setLabelScore 7289 463 2970 9731
+resetLabelScore 1402 1456 0
+resetLabelScore 9419 142 0
+setLabelScore 2208 261 -8 136
+resetLabelScore -6 643 3742
+getHighestScoredLabel 316 172
+deleteImage -1
+addImage 7958
+resetLabelScore 131 1356 0
+mergeSuperPixels 5419 894 1071
+setLabelScore 2067 1281 6677 2822
+getHighestScoredLabel 1066 359
+mergeSuperPixels 9323 231 1
+mergeSuperPixels 5186 1632 889
+setLabelScore 8054 1632 5734 9193
+mergeSuperPixels 9419 1091 1
+resetLabelScore 8285 701 0
+getHighestScoredLabel 2951 1008
+getHighestScoredLabel 7850 1320
+getHighestScoredLabel 7008 1613
+mergeSuperPixels 2067 161 3
+getHighestScoredLabel 7008 574
+setLabelScore 1352 830 3038 7966
+resetLabelScore 6043 659 5328
+resetLabelScore 9883 62 0
+deleteImage 7354
+mergeSuperPixels 7630 24 -8
+resetLabelScore 9347 239 -3
+setLabelScore 1787 523 7839 4348
+deleteImage -1
+setLabelScore 6728 151 8042 489
+setLabelScore 9883 1348 7686 280
+setLabelScore 479 1383 3372 5353
+setLabelScore 7958 893 147 6599
+getHighestScoredLabel 4044 47
+addImage 8495
+mergeSuperPixels 316 1381 0
+addImage 8001
+getHighestScoredLabel 7958 340
+mergeSuperPixels 3121 33 3
+setLabelScore 8824 380 540 8812
+deleteImage 4444
+setLabelScore 7958 137 2208 4399
+addImage 4587
+getHighestScoredLabel 1066 508
+resetLabelScore 8021 -6 7957
+resetLabelScore 102 607 0
+resetLabelScore 8702 1057 0
+mergeSuperPixels 7850 1510 2
+setLabelScore 4587 114 2582 7514
+mergeSuperPixels 3480 891 3
+addImage 5056
+setLabelScore 8495 64 815 9315
+getHighestScoredLabel 1120 247
+setLabelScore 9874 1210 3216 2869
+setLabelScore 1271 1432 4608 7182
+addImage 5591
+mergeSuperPixels 7083 1635 29
+mergeSuperPixels 6800 -1 290
+setLabelScore 8856 264 -2 475
+setLabelScore 8132 327 5989 2232
+mergeSuperPixels 9419 295 259
+mergeSuperPixels 5781 1635 1414
+mergeSuperPixels 892 892 269
+setLabelScore 3204 1633 5655 5680
+mergeSuperPixels 8824 349 2
+setLabelScore 959 1481 -2 2338
+setLabelScore 6791 1224 1439 7422
+resetLabelScore 294 1611 0
+setLabelScore 3733 751 1701 9151
+getHighestScoredLabel 5714 210
+setLabelScore 9369 242 5250 4617
+getHighestScoredLabel 316 22
+getHighestScoredLabel 8824 1009
+setLabelScore 6700 148 7220 2983
+addImage 3480
+resetLabelScore 4162 178 9773
+getHighestScoredLabel 3936 401
+getHighestScoredLabel 8536 279
+setLabelScore 131 1417 4362 4034
+resetLabelScore 5344 309 -3
+mergeSuperPixels 6162 1394 1
+resetLabelScore -6 1086 4381
+addImage -3
+mergeSuperPixels 5714 427 42
+resetLabelScore 9323 1303 0
+mergeSuperPixels 8702 231 1
+addImage 9037
+setLabelScore 4058 1574 2092 67
+setLabelScore -7 675 32 7673
+setLabelScore 9085 842 414 803
+setLabelScore 2158 -6 1335 8777
+mergeSuperPixels 8285 1514 0
+setLabelScore 8285 707 4560 5561
+addImage 4589
+setLabelScore 5112 -7 2203 246
+setLabelScore 7941 1028 -5 6862
+getHighestScoredLabel 892 168
+resetLabelScore 7233 1053 -2
+setLabelScore 5056 241 2725 8397
+mergeSuperPixels 3480 476 4
+setLabelScore 8946 894 5787 7605
+mergeSuperPixels 4044 563 2
+setLabelScore 2262 925 3400 4667
+addImage 8495
+setLabelScore 8495 151 1115 4449
+addImage 9369
+getHighestScoredLabel 1271 1027
+addImage -7
+addImage 7825
+resetLabelScore 3135 -3 5560
+setLabelScore 9622 495 2046 458
+mergeSuperPixels 3153 1192 574
+addImage 4632
+mergeSuperPixels 4044 1458 3
+getHighestScoredLabel 3069 1485
+setLabelScore 3480 347 22 5097
+mergeSuperPixels 4632 1204 0
+setLabelScore 6953 829 6637 1712
+resetLabelScore 3480 840 0
+addImage -3
+resetLabelScore 6083 789 -7
+mergeSuperPixels 167 1047 1628
+resetLabelScore 7958 1035 0
+addImage -10
+resetLabelScore 6406 679 8973
+resetLabelScore 4589 1619 0
+addImage -4
+addImage 3843
+mergeSuperPixels 1352 1017 1
+resetLabelScore 8285 1174 0
+setLabelScore 9453 414 -5 8976
+addImage 7643
+setLabelScore 9419 370 9477 6996
+mergeSuperPixels 4346 116 -10
+resetLabelScore 6162 1210 0
+addImage 9697
+addImage 9880
+setLabelScore 316 1313 760 7394
+resetLabelScore -5 148 5990
+getHighestScoredLabel 9880 28
+resetLabelScore 8946 1022 0
+setLabelScore 6229 1057 3604 7253
+mergeSuperPixels 5056 747 0
+addImage 1489
+getHighestScoredLabel 3480 286
+addImage 168
+addImage 4348
+getHighestScoredLabel 7958 800
+setLabelScore 3340 1366 8163 0
+setLabelScore 8093 -9 5643 724
+getHighestScoredLabel 9883 198
+addImage 4589
+mergeSuperPixels 2504 -5 1593
+setLabelScore 5022 -2 5927 2474
+mergeSuperPixels 134 57 -1
+addImage 7643
+setLabelScore 9883 855 2003 8248
+setLabelScore -8 676 5898 2689
+addImage 1066
+mergeSuperPixels 6657 348 3
+getHighestScoredLabel 9697 545
+addImage 3726
+setLabelScore 1352 655 8430 601
+addImage 851
+mergeSuperPixels 6657 1617 4
+resetLabelScore 3695 -1 4011
+setLabelScore 5988 346 8661 8457
+mergeSuperPixels 8143 -5 1287
+mergeSuperPixels 6953 28 4
+getHighestScoredLabel 8536 1241
+mergeSuperPixels 8824 629 3
+resetLabelScore 2951 672 0
+setLabelScore 6953 859 2371 9157
+resetLabelScore 8536 540 0
+resetLabelScore 3303 -6 5142
+mergeSuperPixels 2245 744 193
+setLabelScore 5686 928 9569 1848
+setLabelScore 2951 787 302 6552
+deleteImage -4
+setLabelScore 8495 1069 5449 1429
+addImage 6431
+setLabelScore 9181 1631 6135 5266
+getHighestScoredLabel 1271 260
+addImage -10
+mergeSuperPixels 4348 12 0
+mergeSuperPixels 6953 510 5
+getHighestScoredLabel 0 1635
+setLabelScore 2895 1472 4572 7324
+getHighestScoredLabel 9880 263
+resetLabelScore 7289 541 0
+setLabelScore 3069 522 5163 4325
+mergeSuperPixels 309 784 473
+deleteImage 8495
+setLabelScore 613 773 3340 8460
+mergeSuperPixels 4589 1154 0
+setLabelScore 1352 1348 7564 5352
+setLabelScore 1489 967 7447 2145
+addImage 5051
+mergeSuperPixels 4044 1603 4
+getHighestScoredLabel 294 6
+mergeSuperPixels -4 960 1612
+addImage 7157
+mergeSuperPixels 7157 902 1320
+mergeSuperPixels 294 1589 0
+addImage 9684
+setLabelScore 3121 1290 4320 5239
+resetLabelScore 7768 1626 60
+addImage -7
+setLabelScore 9880 649 784 9495
+deleteImage 9419
+resetLabelScore 3069 565 0
+addImage 1779
+getHighestScoredLabel 8285 1094
+setLabelScore 614 1287 9629 3244
+resetLabelScore 4695 980 5625
+addImage 9074
+getHighestScoredLabel 7089 799
+mergeSuperPixels 4438 450 1632
+resetLabelScore 244 1629 4729
+mergeSuperPixels 5051 747 0
+getHighestScoredLabel 1271 1231
+resetLabelScore 131 860 0
+deleteImage 930
+setLabelScore 5550 1634 659 4893
+mergeSuperPixels 3480 672 5
+setLabelScore 6615 1628 2712 6218
+mergeSuperPixels -8 905 692
+resetLabelScore 4427 622 9473
+mergeSuperPixels 1489 546 0
+setLabelScore 4168 1191 0 8871
+mergeSuperPixels -2 1190 202
+addImage 7394
+resetLabelScore 9476 148 9580
+mergeSuperPixels 4044 73 5
+setLabelScore 294 964 204 4545
+setLabelScore 6229 211 6942 4742
+setLabelScore 49 1630 629 5371
+setLabelScore 7825 936 1065 6926
+resetLabelScore 7850 874 0
+addImage 4587
+getHighestScoredLabel 5988 2
+mergeSuperPixels 9979 1228 -8
+addImage 6791
+resetLabelScore 3069 983 0
+resetLabelScore -8 1414 4737
+addImage 8874
+mergeSuperPixels 3406 301 -3
+resetLabelScore 5591 719 0
+mergeSuperPixels 58 1395 1630
+setLabelScore 8517 259 9014 4518
+mergeSuperPixels 5051 1265 1
+setLabelScore 7223 1139 491 5181
+resetLabelScore 2116 1626 4380
+addImage 3557
+resetLabelScore 4975 1631 8653
+setLabelScore 479 23 6737 6506
+getHighestScoredLabel 6431 942
+mergeSuperPixels 430 62 -3
+mergeSuperPixels 5714 1266 0
+setLabelScore 9883 1452 8324 528
+mergeSuperPixels -4 839 458
+setLabelScore 4283 1635 332 7409
+mergeSuperPixels 8946 1622 457
+addImage 4626
+resetLabelScore 9117 1629 3648
+mergeSuperPixels 8151 -10 800
+setLabelScore 7661 1625 7122 7965
+setLabelScore 2779 1068 5420 9901
+getHighestScoredLabel 8824 15
+deleteImage 4632
+resetLabelScore 5789 57 9010
+setLabelScore 3936 551 6621 8330
+mergeSuperPixels 9369 532 0
+resetLabelScore 7643 110 0
+resetLabelScore 5107 1627 7223
+addImage 8639
+mergeSuperPixels 7825 1450 0
+deleteImage -6
+resetLabelScore 9158 1206 9615
+setLabelScore 7307 1478 574 1715
+setLabelScore 7465 360 -10 6032
+addImage 3587
+setLabelScore 9369 56 3221 8097
+addImage 7089
+setLabelScore 7089 291 4464 1995
+mergeSuperPixels 3790 1629 694
+resetLabelScore 1310 1577 3180
+resetLabelScore 7850 185 0
+resetLabelScore 9082 1104 3042
+deleteImage -4
+getHighestScoredLabel 5056 105
+setLabelScore 8946 824 7841 5695
+setLabelScore 2262 1064 5831 8358
+resetLabelScore 5020 785 6788
+resetLabelScore -9 636 7501
+getHighestScoredLabel 1271 557
+addImage -9
+resetLabelScore 5591 1080 0
+deleteImage 1588
+mergeSuperPixels 4348 321 1
+mergeSuperPixels 4261 913 1634
+resetLabelScore 5791 207 -6
+addImage 9462
+mergeSuperPixels 7725 -2 1325
+setLabelScore 8521 309 9261 -8
+mergeSuperPixels 4348 706 2
+setLabelScore 4348 1428 434 5019
+resetLabelScore 7481 1543 7573
+mergeSuperPixels 2951 363 0
+mergeSuperPixels 9467 1508 779
+addImage 9933
+mergeSuperPixels 8946 125 1
+mergeSuperPixels 3491 1633 635
+mergeSuperPixels 8285 433 1
+mergeSuperPixels 9369 1498 94
+getHighestScoredLabel 9883 478
+setLabelScore 2951 845 1815 7277
+setLabelScore 7643 1585 9602 6652
+mergeSuperPixels 1271 581 0
+getHighestScoredLabel 7993 107
+addImage 3787
+mergeSuperPixels 479 781 1
+resetLabelScore 6822 1630 4274
+addImage 3614
+setLabelScore 3121 923 878 9776
+deleteImage -8
+resetLabelScore 3870 1629 8988
+setLabelScore 168 526 2870 3066
+addImage 1066
+resetLabelScore 6666 1633 4853
+mergeSuperPixels 3673 1513 1573
+mergeSuperPixels 2245 779 0
+resetLabelScore 7157 542 0
+mergeSuperPixels 1489 386 1
+resetLabelScore 8874 484 0
+mergeSuperPixels 7157 1328 0
+addImage 6668
+getHighestScoredLabel 3726 206
+mergeSuperPixels 8418 416 1573
+addImage 5022
+addImage 7536
+addImage 2696
+resetLabelScore -2 987 5042
+mergeSuperPixels 5557 1630 1461
+getHighestScoredLabel 9880 521
+resetLabelScore 2332 134 1910
+setLabelScore 3926 1509 -2 6755
+getHighestScoredLabel 3787 551
+addImage -6
+resetLabelScore 9316 1189 9980
+resetLabelScore 2245 123 0
+resetLabelScore -5 1558 2201
+resetLabelScore 9369 1380 0
+mergeSuperPixels 2951 1185 83
+addImage 9880
+setLabelScore 3787 1310 1717 3410
+resetLabelScore 8874 1635 5167
+resetLabelScore 7998 1113 9895
+getHighestScoredLabel 892 51
+resetLabelScore 5686 1543 0
+mergeSuperPixels 102 164 0
+setLabelScore -5 1306 8281 9833
+setLabelScore 6668 178 9685 532
+mergeSuperPixels 316 1561 1
+getHighestScoredLabel 851 1148
+setLabelScore -3 1452 989 7359
+setLabelScore 316 1440 1955 1796
+addImage 2524
+getHighestScoredLabel 5988 349
+addImage 1066
+getHighestScoredLabel 7289 197
+mergeSuperPixels 2022 -5 1482
+resetLabelScore -3 739 1648
+setLabelScore 4626 1618 968 548
+setLabelScore 892 682 493 1093
+setLabelScore 8946 1279 7898 29
+addImage 105
+addImage 5661
+setLabelScore 3843 452 7044 5144
+mergeSuperPixels 6229 1158 0
+setLabelScore 1271 170 9598 5482
+deleteImage -7
+addImage 1034
+addImage 1034
+resetLabelScore 6934 375 4316
+mergeSuperPixels 5301 1033 1274
+resetLabelScore 4273 1463 8170
+addImage 1891
+getHighestScoredLabel 3557 656
+addImage 8989
+setLabelScore 7008 1345 4521 731
+mergeSuperPixels 6668 1485 416
+mergeSuperPixels 5138 1629 713
+getHighestScoredLabel 1489 563
+getHighestScoredLabel 9462 457
+setLabelScore -8 734 5504 6641
+setLabelScore 8639 1279 7617 4231
+resetLabelScore 1120 1526 0
+addImage 8847
+resetLabelScore 1034 461 0
+resetLabelScore 907 1634 4205
+addImage 9684
+mergeSuperPixels 1200 940 -2
+setLabelScore 8989 947 8487 277
+resetLabelScore 3726 1547 0
+setLabelScore 7562 1052 1444 2972
+addImage 4553
+mergeSuperPixels 102 668 1
+addImage 7764
+mergeSuperPixels 6791 1098 491
+getHighestScoredLabel 8989 23
+setLabelScore 7536 100 2019 524
+getHighestScoredLabel 9462 762
+mergeSuperPixels 2524 944 0
+addImage 1351
+mergeSuperPixels 1189 1540 -10
+getHighestScoredLabel 6791 715
+setLabelScore 9118 1633 8704 4234
+setLabelScore -6 391 6548 2012
+getHighestScoredLabel 7764 1232
+setLabelScore 7958 1129 4144 9289
+addImage 9089
+setLabelScore 3843 1533 124 5008
+setLabelScore 8644 817 -6 2684
+mergeSuperPixels -9 1115 1622
+mergeSuperPixels 2488 -1 1081
+addImage 1854
+resetLabelScore 9720 -9 9203
+resetLabelScore 2190 578 -9
+mergeSuperPixels -10 434 68
+resetLabelScore 1446 399 -9
+deleteImage 8804
+setLabelScore 3557 1033 4292 5041
+setLabelScore 5056 864 6997 2889
+setLabelScore 7965 -3 7285 8645
+setLabelScore 7643 757 154 1716
+setLabelScore 6953 139 264 648
+resetLabelScore 9933 1398 0
+setLabelScore 6299 1635 4339 346
+resetLabelScore 138 1411 3310
+mergeSuperPixels 9880 384 0
+getHighestScoredLabel 8702 474
+setLabelScore 8989 1239 7797 7866
+mergeSuperPixels 294 111 1
+setLabelScore 9089 1557 503 9035
+resetLabelScore 4626 703 0
+setLabelScore 3311 394 -7 4175
+resetLabelScore 1787 263 0
+mergeSuperPixels 5056 531 434
+setLabelScore 892 165 9597 6955
+resetLabelScore 367 1631 7438
+setLabelScore 3881 463 -10 7007
+setLabelScore 9642 766 9594 1322
+resetLabelScore 2780 -10 8571
+mergeSuperPixels 1351 134 590
+addImage -4
+mergeSuperPixels 9462 818 0
+mergeSuperPixels 1891 61 0
+setLabelScore 3069 1086 4865 3966
+addImage 1317
+setLabelScore 2990 1060 3003 -10
+setLabelScore 1271 1023 1408 2858
+mergeSuperPixels 3587 44 0
+setLabelScore 761 -10 1026 9360
+addImage 0
+resetLabelScore 5828 1302 8471
+setLabelScore 7850 128 1714 7367
+getHighestScoredLabel 1787 929
+getHighestScoredLabel 3121 133
+resetLabelScore 0 174 3979
+setLabelScore 6233 1632 5500 5211
+setLabelScore 5056 332 6078 6337
+getHighestScoredLabel 8702 1102
+setLabelScore -1 835 8848 8803
+getHighestScoredLabel 1891 511
+getHighestScoredLabel 8847 99
+setLabelScore 7993 7 8688 6222
+resetLabelScore 5231 -7 9157
+mergeSuperPixels 5591 548 0
+resetLabelScore 3726 461 0
+resetLabelScore 4348 1347 0
+setLabelScore 9778 1408 5263 -6
+setLabelScore 6958 1625 2588 8349
+setLabelScore 6953 100 4248 7672
+deleteImage 6162
+setLabelScore 4044 169 1471 732
+mergeSuperPixels 3787 585 1062
+setLabelScore 9933 1205 6741 5732
+getHighestScoredLabel 3064 996
+mergeSuperPixels 851 463 768
+addImage 8847
+getHighestScoredLabel 1352 761
+setLabelScore 7825 898 1929 245
+mergeSuperPixels 360 1626 1060
+mergeSuperPixels 8285 786 252
+addImage 3108
+getHighestScoredLabel 5988 618
+setLabelScore 1271 267 9824 9009
+setLabelScore 5591 966 7939 1848
+mergeSuperPixels 3480 1546 6
+addImage 263
+mergeSuperPixels 6657 1322 1261
+addImage -4
+mergeSuperPixels 131 151 3
+mergeSuperPixels 1351 152 1203
+setLabelScore 4589 267 1027 3245
+addImage 3726
+setLabelScore 7764 929 2159 6079
+addImage 1702
+addImage 5903
+resetLabelScore -5 472 3664
+deleteImage 1854
+setLabelScore 5056 936 7737 3256
+addImage 6823
+resetLabelScore 1872 -9 6895
+addImage 1201
+getHighestScoredLabel 1271 246
+setLabelScore 2951 713 8880 7012
+addImage 816
+setLabelScore 5051 1229 4544 1233
+mergeSuperPixels 9074 1223 0
+resetLabelScore 3867 242 -7
+mergeSuperPixels 5699 1632 1314
+addImage -10
+setLabelScore -6 1462 8734 2086
+deleteImage -2
+resetLabelScore 1352 843 0
+getHighestScoredLabel 1201 772
+mergeSuperPixels 5310 820 -2
+resetLabelScore 9883 499 0
+addImage 8479
+setLabelScore 5686 560 9336 857
+addImage 7648
+mergeSuperPixels 1352 509 2
+setLabelScore 2305 102 -9 7352
+mergeSuperPixels -4 1552 154
+addImage 1066
+addImage 903
+addImage 5295
+resetLabelScore 1120 1306 0
+addImage 2678
+setLabelScore 2262 889 2073 1876
+getHighestScoredLabel 5051 660
+addImage 3591
+setLabelScore 9883 1174 4059 3216
+getHighestScoredLabel 168 441
+addImage -10
+setLabelScore 131 1600 973 2043
+addImage 6245
+setLabelScore 8989 450 5644 2714
+setLabelScore 3480 1459 6261 5799
+setLabelScore 9369 1236 1682 2926
+resetLabelScore 168 539 0
+getHighestScoredLabel 316 6
+addImage 6554
+mergeSuperPixels 5962 1039 -2
+resetLabelScore 4589 43 0
+setLabelScore 9323 615 1569 2521
+setLabelScore 9642 1033 2655 4546
+mergeSuperPixels 9462 1232 1
+setLabelScore 5995 -9 3798 3568
+resetLabelScore 1815 -7 4649
+addImage 125
+resetLabelScore 7536 1465 0
+setLabelScore 7634 129 -2 8742
+resetLabelScore 2678 646 0
+getHighestScoredLabel 2262 735
+getHighestScoredLabel 9697 423
+getHighestScoredLabel 851 988
+resetLabelScore 8536 270 0
+getHighestScoredLabel 8702 448
+mergeSuperPixels -3 1432 1597
+addImage 6130
+resetLabelScore 450 368 0
+mergeSuperPixels 125 1195 0
+resetLabelScore 1954 1634 2978
+resetLabelScore 5674 1324 7637
+addImage 4272
+setLabelScore 3986 1584 1266 -8
+addImage 882
+addImage 9089
+mergeSuperPixels 5686 337 0
+getHighestScoredLabel 3614 520
+addImage -6
+mergeSuperPixels 6421 1635 941
+mergeSuperPixels 1066 1392 1
+resetLabelScore 3852 1054 5880
+addImage 9323
+getHighestScoredLabel 7958 347
+setLabelScore 6130 1170 10 3859
+addImage -8
+addImage 832
+addImage 282
+mergeSuperPixels 3603 -8 712
+addImage 6953
+mergeSuperPixels 6566 1632 912
+resetLabelScore -4 1453 532
+resetLabelScore 5063 1548 -10
+resetLabelScore 4587 1553 0
+setLabelScore 1787 1196 2268 879
+setLabelScore -1 758 9233 971
+getHighestScoredLabel 8702 592
+resetLabelScore 9089 1160 0
+setLabelScore 4587 1441 185 4875
+resetLabelScore 9359 1407 7035
+mergeSuperPixels 4626 281 2
+setLabelScore 3614 1615 5725 3235
+addImage 9333
+setLabelScore 2951 1049 8844 8464
+addImage 6410
+resetLabelScore 6114 1 4131
+addImage 5339
+setLabelScore 903 529 2352 4081
+addImage 125
+addImage 9224
+setLabelScore 8001 509 4248 4451
+getHighestScoredLabel 105 594
+setLabelScore 479 942 1409 5587
+resetLabelScore 6486 -4 9764
+resetLabelScore 1352 294 0
+resetLabelScore 9697 322 0
+getHighestScoredLabel 7536 840
+resetLabelScore 5051 1309 0
+getHighestScoredLabel 168 110
+resetLabelScore 3534 1635 2858
+addImage 2763
+resetLabelScore 9642 1550 0
+setLabelScore -3 13 4280 7858
+addImage 3004
+setLabelScore 450 520 2820 8264
+resetLabelScore 2951 241 0
+addImage 6537
+resetLabelScore 8515 1399 3601
+resetLabelScore 1535 1635 1345
+resetLabelScore 3813 1522 -2
+mergeSuperPixels 892 1445 0
+resetLabelScore 2245 1431 0
+addImage -5
+setLabelScore 816 127 5262 2338
+resetLabelScore 3557 791 0
+setLabelScore 8847 184 4309 5995
+setLabelScore 8603 -4 2739 4608
+resetLabelScore 8371 1635 6267
+addImage 3562
+mergeSuperPixels 8639 812 0
+mergeSuperPixels -7 525 601
+getHighestScoredLabel 5051 258
+addImage 900
+resetLabelScore 2356 128 4966
+addImage 7788
+mergeSuperPixels 4212 1273 1635
+mergeSuperPixels 763 574 378
+mergeSuperPixels 5410 531 815
+setLabelScore 3936 1398 6214 6700
+addImage 652
+addImage 6175
+setLabelScore 3591 1346 9849 373
+setLabelScore 2074 331 -8 8619
+resetLabelScore -9 198 8466
+resetLabelScore 5681 873 -5
+mergeSuperPixels 4626 137 3
+setLabelScore 1099 1635 4623 7820
+mergeSuperPixels 6245 959 0
+mergeSuperPixels 8245 871 1634
+getHighestScoredLabel 9883 1098
+setLabelScore 6600 666 4390 6456
+resetLabelScore -2 395 1076
+resetLabelScore 816 693 0
+resetLabelScore 8874 1018 0
+resetLabelScore 8824 1136 0
+addImage -5
+resetLabelScore 3064 816 -9
+addImage 5733
+resetLabelScore 7788 626 0
+addImage 1126
+setLabelScore 664 1634 8053 4695
+setLabelScore 3557 1567 6226 2248
+mergeSuperPixels 479 1240 2
+addImage 0
+resetLabelScore 1181 1632 6377
+setLabelScore 5339 1415 5288 6644
+mergeSuperPixels 3726 1268 0
+setLabelScore -4 462 5888 6737
+resetLabelScore 8596 1175 3898
+mergeSuperPixels 5733 1308 0
+resetLabelScore 4516 -7 3693
+deleteImage 9074
+setLabelScore 107 151 -10 5519
+resetLabelScore 1983 1634 9509
+getHighestScoredLabel 4044 310
+setLabelScore 1114 597 8304 3249
+resetLabelScore 892 1133 0
+setLabelScore 5714 1205 9940 7314
+mergeSuperPixels 6537 327 0
+setLabelScore 900 1309 60 8398
+mergeSuperPixels 7223 1631 358
+addImage 7945
+mergeSuperPixels 4272 1048 0
+mergeSuperPixels 1702 1496 0
+mergeSuperPixels 7089 500 0
+getHighestScoredLabel 3121 1017
+resetLabelScore 501 -3 3461
+addImage 9224
+mergeSuperPixels 1317 1484 0
+resetLabelScore 294 1059 0
+mergeSuperPixels 5988 524 1056
+setLabelScore 2763 1067 9465 4364
+mergeSuperPixels 6410 1348 0
+mergeSuperPixels 6431 1090 0
+setLabelScore 9233 121 575 8569
+setLabelScore 3783 369 584 7246
+getHighestScoredLabel 816 621
+mergeSuperPixels 5022 1129 1351
+mergeSuperPixels 9513 17 193
+addImage 900
+mergeSuperPixels 9369 1109 1
+setLabelScore -2 1241 5299 7653
+setLabelScore 1352 1473 5208 2395
+mergeSuperPixels -2 1481 1322
+setLabelScore 1506 1631 4365 1831
+mergeSuperPixels 6920 1039 982
+addImage 1351
+getHighestScoredLabel 7958 349
+setLabelScore 3787 1514 8253 3868
+addImage 6993
+mergeSuperPixels 1702 471 4
+mergeSuperPixels 9119 -7 522
+setLabelScore 5051 1055 2191 3529
+setLabelScore 3562 10 4690 6261
+mergeSuperPixels 168 158 0
+addImage 1026
+getHighestScoredLabel 6554 310
+deleteImage 6525
+setLabelScore 3787 1253 2113 5463
+addImage 5897
+addImage -10
+setLabelScore 652 1531 6238 6352
+setLabelScore 9880 199 9135 4664
+setLabelScore 4553 15 8494 8890
+addImage 4238
+setLabelScore 1697 1211 3971 2417
+resetLabelScore 9323 1114 0
+mergeSuperPixels 8732 -8 1327
+mergeSuperPixels 4238 214 0
+addImage 6639
+resetLabelScore 6418 201 5220
+mergeSuperPixels 3004 182 0
+mergeSuperPixels 5903 757 0
+setLabelScore 5591 1071 8250 219
+addImage 5290
+setLabelScore 4052 1625 395 5753
+getHighestScoredLabel 5714 1190
+addImage -5
+addImage 8269
+resetLabelScore -9 639 3511
+addImage -8
+getHighestScoredLabel 9369 1608
+addImage 4589
+mergeSuperPixels 6841 -4 574
+resetLabelScore 4958 133 6342
+mergeSuperPixels 3591 968 0
+getHighestScoredLabel 282 102
+addImage -9
+mergeSuperPixels 6157 1214 1630
+deleteImage 479
+resetLabelScore 892 657 0
+getHighestScoredLabel 9462 1164
+mergeSuperPixels 450 312 0
+addImage 4019
+addImage 1961
+setLabelScore 1120 1012 9003 5371
+mergeSuperPixels 5733 756 666
+resetLabelScore 9280 240 -3
+resetLabelScore 9880 203 0
+resetLabelScore 1126 1408 0
+addImage -6
+mergeSuperPixels 816 21 861
+getHighestScoredLabel 1066 1197
+getHighestScoredLabel 1779 1147
+setLabelScore -3 753 3685 5256
+addImage 0
+mergeSuperPixels 5630 1625 928
+setLabelScore 3550 -2 4602 1651
+resetLabelScore 2938 1635 4111
+getHighestScoredLabel 882 838
+mergeSuperPixels 316 963 2
+resetLabelScore 9037 794 0
+resetLabelScore 6692 1544 9159
+getHighestScoredLabel 5733 382
+setLabelScore 9089 599 1898 2694
+mergeSuperPixels 6406 1361 -8
+resetLabelScore -5 922 7613
+setLabelScore 3237 225 4750 1294
+setLabelScore 2763 939 6745 2694
+mergeSuperPixels 1961 382 0
+mergeSuperPixels 6175 305 0
+setLabelScore 1034 812 5911 7521
+setLabelScore 5714 317 4418 1356
+addImage -4
+mergeSuperPixels 6645 1498 -3
+setLabelScore -4 977 6786 7694
+addImage 4116
+deleteImage 9369
+resetLabelScore 4192 739 8687
+getHighestScoredLabel 1317 1382
+setLabelScore 8285 676 6794 4650
+mergeSuperPixels 1285 68 1495
+getHighestScoredLabel 3591 1337
+getHighestScoredLabel 9089 812
+setLabelScore 8061 754 8201 5607
+addImage 8632
+addImage 6191
+getHighestScoredLabel 9462 31
+getHighestScoredLabel 3591 1272
+deleteImage 5879
+mergeSuperPixels 550 -7 1219
+mergeSuperPixels 9172 1155 1491
+setLabelScore 7788 433 4890 651
+mergeSuperPixels 8001 1059 0
+addImage 3586
+setLabelScore 6526 296 4118 -1
+setLabelScore 187 450 -3 1122
+resetLabelScore 9089 475 0
+getHighestScoredLabel 9089 0
+setLabelScore 8702 1530 3177 4184
+setLabelScore 3587 1316 7804 4382
+mergeSuperPixels 6554 403 0
+setLabelScore 7157 1101 8037 766
+getHighestScoredLabel 5686 497
+getHighestScoredLabel 3064 251
+resetLabelScore 263 1491 0
+resetLabelScore 6544 -1 8648
+mergeSuperPixels 8989 1443 0
+addImage -8
+addImage 3936
+mergeSuperPixels 3787 704 0
+mergeSuperPixels 8606 764 172
+getHighestScoredLabel 0 1627
+resetLabelScore -6 891 4646
+deleteImage 7825
+mergeSuperPixels 5988 1610 2
+mergeSuperPixels 3121 705 4
+mergeSuperPixels 6191 1033 0
+mergeSuperPixels 1702 490 1
+addImage 6322
+resetLabelScore 3787 1113 0
+mergeSuperPixels 5056 1231 1
+getHighestScoredLabel 4626 212
+mergeSuperPixels 3591 1289 1
+mergeSuperPixels 3562 1554 0
+mergeSuperPixels 816 364 0
+deleteImage 4272
+resetLabelScore 874 120 -10
+addImage 6175
+addImage 7958
+setLabelScore 5661 1306 7740 786
+getHighestScoredLabel 450 22
+mergeSuperPixels 4587 760 0
+setLabelScore -8 1426 7095 2334
+resetLabelScore 2252 499 7363
+setLabelScore 945 566 -9 9645
+setLabelScore 4238 369 9454 69
+setLabelScore 168 963 6038 3409
+setLabelScore 1640 87 -2 3726
+getHighestScoredLabel 9462 661
+resetLabelScore 3562 181 0
+mergeSuperPixels 5290 1261 0
+getHighestScoredLabel 4553 272
+getHighestScoredLabel 1891 1563
+resetLabelScore 4575 840 -2
+setLabelScore 1787 384 4025 1960
+setLabelScore 102 1482 9488 1233
+getHighestScoredLabel 0 1628
+getHighestScoredLabel 892 37
+resetLabelScore 1200 1310 5843
+resetLabelScore -9 129 71
+addImage 5897
+addImage 8847
+getHighestScoredLabel 8001 61
+setLabelScore 4404 571 -4 2369
+mergeSuperPixels 7008 478 0
+resetLabelScore 6410 1209 0
+setLabelScore 9333 689 6051 8980
+addImage 8069
+addImage 1702
+resetLabelScore 5840 1533 -10
+mergeSuperPixels 3480 55 7
+resetLabelScore 6489 1631 2394
+setLabelScore 3480 1350 7572 4494
+setLabelScore 7008 1466 4578 1908
+addImage 6759
+addImage 8057
+mergeSuperPixels 9697 366 0
+setLabelScore 882 1334 3260 5064
+getHighestScoredLabel 102 332
+setLabelScore 6175 102 4738 8329
+addImage -3
+mergeSuperPixels 2171 1632 733
+getHighestScoredLabel 7157 425
+setLabelScore 652 1208 895 8764
+setLabelScore 5788 942 -4 2734
+setLabelScore -6 1249 9917 6955
+getHighestScoredLabel 9642 580
+getHighestScoredLabel 3591 1624
+addImage 6452
+setLabelScore 6259 1286 -3 5144
+setLabelScore 316 260 3898 4500
+mergeSuperPixels 6554 1469 1
+mergeSuperPixels -1 207 72
+setLabelScore 1318 677 3172 8980
+addImage 7394
+resetLabelScore 1505 1296 -6
+addImage 4348
+mergeSuperPixels 1978 1627 4
+getHighestScoredLabel 6657 1389
+getHighestScoredLabel 282 93
+resetLabelScore 1891 1301 0
+mergeSuperPixels 9037 1375 3
+setLabelScore 6643 1631 880 3751
+resetLabelScore -7 630 9563
+setLabelScore 1891 1196 687 2140
+deleteImage 6420
+mergeSuperPixels -9 605 1526
+addImage 7661
+addImage -6
+mergeSuperPixels 2405 926 84
+setLabelScore 978 -2 6051 8824
+deleteImage -10
+getHighestScoredLabel 8874 688
+mergeSuperPixels 9933 778 0
+addImage 4582
+getHighestScoredLabel 2262 636
+addImage 9897
+addImage 7834
+getHighestScoredLabel 6175 324
+mergeSuperPixels 1352 717 3
+resetLabelScore 310 -7 3212
+resetLabelScore -3 305 5963
+setLabelScore 1022 -5 2827 5653
+setLabelScore 7394 406 7069 9686
+addImage 2956
+mergeSuperPixels 7834 1553 0
+getHighestScoredLabel 6431 1038
+getHighestScoredLabel 9037 13
+mergeSuperPixels 9462 692 2
+setLabelScore 4415 649 293 -6
+addImage 5116
+addImage 4224
+addImage 3194
+setLabelScore 3614 584 3970 3029
+getHighestScoredLabel 8479 87
+mergeSuperPixels 6161 1223 1471
+resetLabelScore 4741 -1 6209
+setLabelScore 4626 1301 5793 6661
+mergeSuperPixels 4582 1268 0
+setLabelScore 8585 -3 9562 8308
+getHighestScoredLabel 6537 1217
+getHighestScoredLabel 9224 1367
+addImage 3787
+setLabelScore 9515 37 6536 6992
+setLabelScore 168 793 6668 1411
+addImage 7993
+setLabelScore 8147 389 -1 463
+addImage -4
+getHighestScoredLabel 1126 1065
+deleteImage 8946
+addImage 4412
+resetLabelScore 8057 1393 0
+setLabelScore 1089 1052 3562 -4
+addImage 7684
+resetLabelScore 6415 877 5317
+mergeSuperPixels 7089 1094 1
+setLabelScore 4276 1616 -7 6053
+getHighestScoredLabel 6245 1033
+addImage 3749
+addImage 6949
+resetLabelScore 8895 1115 896
+resetLabelScore 8416 1628 6407
+getHighestScoredLabel 9684 250
+addImage 2035
+addImage -10
+resetLabelScore 652 1184 0
+mergeSuperPixels 816 847 1
+resetLabelScore 7417 355 -8
+setLabelScore 6759 857 598 9394
+mergeSuperPixels 7157 474 1
+addImage -9
+mergeSuperPixels 263 615 619
+mergeSuperPixels 3108 827 0
+setLabelScore 5542 1625 8216 9048
+getHighestScoredLabel 0 1634
+setLabelScore 125 1270 2288 6043
+setLabelScore 1779 769 2109 5912
+mergeSuperPixels 6322 865 161
+resetLabelScore 6554 194 0
+setLabelScore 8702 18 9338 5724
+getHighestScoredLabel 0 1628
+resetLabelScore 4051 1385 -9
+addImage 5661
+setLabelScore 2763 432 9361 8725
+addImage 3588
+mergeSuperPixels 131 465 4
+addImage -4
+getHighestScoredLabel 3069 103
+mergeSuperPixels 282 1244 396
+setLabelScore 4438 358 -5 8116
+quit

@@ -1,0 +1,16 @@
+init 1832
+resetLabelScore 2562 703 3367
+setLabelScore 1081 221 4863 9978
+setLabelScore 2263 683 -3 7593
+mergeSuperPixels 497 -4 52
+addImage 8152
+addImage -4
+addImage -2
+getHighestScoredLabel 8152 1640
+addImage 4653
+mergeSuperPixels 465 1842 599
+addImage -3
+resetLabelScore 5619 -2 9893
+addImage 8746
+mergeSuperPixels 4653 1243 1633
+quit

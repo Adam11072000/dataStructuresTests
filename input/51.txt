@@ -1,0 +1,11 @@
+init 7025
+addImage 710
+deleteImage 710
+mergeSuperPixels 2509 -6 6662
+addImage 9384
+resetLabelScore 279 -2 1466
+deleteImage -10
+resetLabelScore 7800 4000 -3
+addImage -10
+addImage 1352
+quit

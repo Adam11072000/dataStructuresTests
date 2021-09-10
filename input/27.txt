@@ -1,0 +1,5 @@
+init 7802
+addImage -1
+addImage 1358
+addImage 5122
+quit

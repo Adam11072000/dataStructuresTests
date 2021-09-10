@@ -1,0 +1,12 @@
+init 2840
+addImage -10
+addImage 8655
+deleteImage 8655
+resetLabelScore 5127 643 -6
+addImage 0
+addImage 0
+addImage -10
+addImage -9
+addImage 519
+addImage 519
+quit

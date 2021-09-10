@@ -1,0 +1,8 @@
+init 2141
+setLabelScore 7483 1590 8604 1694
+addImage 1357
+addImage 8857
+setLabelScore 8857 3 4293 9404
+resetLabelScore 5711 37 4729
+addImage 4618
+quit
