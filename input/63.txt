@@ -1,10 +1,10 @@
-init 1973
-addImage 4626
-addImage 9277
-addImage 9277
-addImage -7
-getHighestScoredLabel 9277 110
-addImage 9277
-addImage -1
-setLabelScore 7869 162 8294 1911
+init 23
+mergeSuperPixels -6 2 21
+addImage -9
+getHighestScoredLabel 3 -1
+addImage 122
+setLabelScore 122 1 45 131
+addImage -6
+resetLabelScore 204 13 72
+addImage -8
 quit

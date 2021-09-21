@@ -1,2 +1,5 @@
-init 8915
+init 7
+deleteImage 116
+setLabelScore 227 -3 138 56
+mergeSuperPixels 188 17 2
 quit

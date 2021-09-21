@@ -1,2 +1,6 @@
-init 9236
+init 85
+addImage 187
+getHighestScoredLabel 187 65
+mergeSuperPixels 187 78 0
+addImage -2
 quit

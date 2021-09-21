@@ -1,3 +1,8 @@
-init 757
-setLabelScore 3590 665 2670 -4
+init 200
+addImage 193
+setLabelScore 193 199 111 112
+deleteImage 163
+resetLabelScore 12 88 189
+setLabelScore 70 210 177 244
+deleteImage -6
 quit

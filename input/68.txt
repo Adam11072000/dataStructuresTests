@@ -1,3 +1,6 @@
-init 1457
-resetLabelScore 7343 1466 4952
+init 221
+addImage 176
+mergeSuperPixels 176 164 175
+addImage 190
+getHighestScoredLabel 190 12
 quit

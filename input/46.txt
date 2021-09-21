@@ -1,11 +1,8 @@
-init 7238
-resetLabelScore 5248 6454 6296
-addImage 9784
-resetLabelScore 9784 5182 0
-addImage 8571
-addImage 269
-deleteImage 269
-getHighestScoredLabel 9784 576
-getHighestScoredLabel 0 7248
-addImage -6
+init 38
+addImage 221
+addImage 221
+resetLabelScore 237 29 125
+addImage 242
+resetLabelScore 65 37 45
+addImage 242
 quit

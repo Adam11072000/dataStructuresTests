@@ -1,2 +1,15 @@
-init 6007
+init 151
+getHighestScoredLabel 153 -8
+resetLabelScore 90 118 240
+deleteImage 174
+deleteImage -4
+deleteImage 243
+resetLabelScore 41 149 165
+deleteImage 193
+setLabelScore 82 107 245 48
+addImage 94
+resetLabelScore 94 77 0
+addImage 250
+addImage 94
+getHighestScoredLabel 94 57
 quit

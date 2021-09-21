@@ -1,3 +1,17 @@
-init 4858
-deleteImage 0
+init 29
+addImage -5
+addImage -1
+addImage 225
+addImage 0
+resetLabelScore 225 9 0
+resetLabelScore 225 16 0
+deleteImage -7
+resetLabelScore 225 7 0
+resetLabelScore 225 13 0
+getHighestScoredLabel 225 0
+setLabelScore 23 23 -6 137
+addImage 49
+resetLabelScore 225 10 0
+deleteImage -3
+addImage -1
 quit

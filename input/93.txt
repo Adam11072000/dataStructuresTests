@@ -1,3 +1,9 @@
-init 722
-mergeSuperPixels 7181 58 -10
+init 193
+resetLabelScore 129 -9 135
+resetLabelScore -3 102 192
+getHighestScoredLabel 244 -8
+mergeSuperPixels 181 188 -6
+resetLabelScore 94 30 -6
+resetLabelScore 30 21 -10
+resetLabelScore 239 73 52
 quit

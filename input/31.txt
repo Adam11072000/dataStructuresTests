@@ -1,9 +1,27 @@
-init 2243
-addImage 2945
-getHighestScoredLabel 2945 1695
-addImage 9604
-addImage 7126
-addImage 2945
-resetLabelScore 2945 250 0
+init 1
+addImage -7
+addImage 131
 addImage -6
+addImage 131
+setLabelScore 131 0 228 171
+addImage 100
+resetLabelScore -9 0 14
+addImage 139
+setLabelScore 131 0 146 199
+addImage -6
+setLabelScore 156 0 -7 161
+getHighestScoredLabel 0 3
+mergeSuperPixels -10 0 0
+getHighestScoredLabel 100 0
+deleteImage 131
+resetLabelScore 100 0 0
+addImage 115
+addImage -8
+setLabelScore 83 6 209 244
+addImage -2
+mergeSuperPixels 139 0 0
+getHighestScoredLabel 115 0
+mergeSuperPixels 100 0 0
+mergeSuperPixels 100 0 0
+setLabelScore 100 0 231 63
 quit

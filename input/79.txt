@@ -1,2 +1,19 @@
-init 6025
+init 20
+addImage 54
+mergeSuperPixels 5 9 0
+resetLabelScore 54 6 0
+resetLabelScore 54 10 0
+addImage 192
+deleteImage -2
+addImage 231
+mergeSuperPixels 54 14 0
+mergeSuperPixels 54 9 1
+setLabelScore 231 14 140 235
+mergeSuperPixels 248 7 -4
+addImage 192
+mergeSuperPixels 239 -10 17
+getHighestScoredLabel 231 11
+addImage -10
+mergeSuperPixels 132 8 0
+setLabelScore 220 11 122 -4
 quit

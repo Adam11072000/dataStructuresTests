@@ -1,14 +1,9 @@
-init 3471
-setLabelScore 8585 1327 8923 4801
-resetLabelScore -9 3308 2105
-addImage 6214
-addImage 6928
-addImage 608
-resetLabelScore 5534 -2 9042
-addImage -8
-setLabelScore 6214 104 9422 5048
-mergeSuperPixels 6214 1359 0
-mergeSuperPixels 608 1683 0
-addImage 3455
-deleteImage 6928
+init 182
+mergeSuperPixels 82 174 121
+addImage 11
+setLabelScore 11 48 43 11
+setLabelScore 11 120 83 166
+addImage 11
+resetLabelScore 11 141 0
+setLabelScore 196 98 -3 215
 quit

@@ -1,3 +1,1388 @@
-init 406
-mergeSuperPixels -2 108 259
+init 97
+addImage 85
+addImage 209
+addImage 86
+addImage 86
+addImage 140
+setLabelScore 86 91 174 28
+mergeSuperPixels 140 80 0
+mergeSuperPixels 85 11 0
+addImage 74
+getHighestScoredLabel 85 52
+addImage 209
+setLabelScore 43 7 46 -7
+addImage 85
+mergeSuperPixels 28 98 41
+deleteImage 209
+deleteImage -8
+setLabelScore 74 88 4 177
+addImage 86
+addImage -8
+setLabelScore 140 60 109 250
+mergeSuperPixels 74 95 0
+addImage 196
+addImage -10
+addImage 74
+addImage 156
+getHighestScoredLabel 140 22
+mergeSuperPixels 156 67 0
+addImage 32
+setLabelScore 32 30 69 49
+addImage 43
+addImage 212
+setLabelScore 226 7 158 84
+getHighestScoredLabel 43 60
+setLabelScore 156 35 141 65
+setLabelScore 204 98 54 203
+setLabelScore 217 104 234 48
+setLabelScore 202 36 -7 46
+deleteImage 212
+setLabelScore 32 88 22 105
+resetLabelScore 235 16 -3
+getHighestScoredLabel 156 87
+mergeSuperPixels 196 38 0
+mergeSuperPixels 196 12 1
+getHighestScoredLabel 86 4
+addImage 86
+addImage 196
+resetLabelScore -2 48 79
+getHighestScoredLabel 74 46
+mergeSuperPixels 196 3 2
+deleteImage 196
+resetLabelScore 140 50 0
+mergeSuperPixels 149 78 100
+mergeSuperPixels 86 52 0
+setLabelScore 184 6 212 -9
+resetLabelScore 140 12 0
+getHighestScoredLabel 74 64
+mergeSuperPixels 43 38 0
+resetLabelScore 86 1 0
+addImage -5
+addImage 32
+resetLabelScore 74 38 0
+mergeSuperPixels 156 52 1
+mergeSuperPixels 85 19 1
+setLabelScore 53 102 202 132
+addImage 106
+setLabelScore 74 66 194 61
+mergeSuperPixels 140 58 86
+addImage 135
+setLabelScore 218 47 137 -7
+setLabelScore 85 2 198 70
+resetLabelScore 43 95 0
+addImage 0
+setLabelScore 156 83 64 181
+addImage -3
+addImage -1
+setLabelScore -9 6 93 131
+mergeSuperPixels 74 91 1
+resetLabelScore 32 7 0
+mergeSuperPixels 135 48 34
+setLabelScore 73 -6 34 35
+getHighestScoredLabel 86 76
+getHighestScoredLabel 135 36
+setLabelScore 156 29 188 60
+mergeSuperPixels 32 100 27
+setLabelScore 136 104 220 174
+setLabelScore 156 11 80 230
+getHighestScoredLabel 86 59
+setLabelScore -3 51 91 85
+mergeSuperPixels 236 92 34
+mergeSuperPixels 86 3 39
+resetLabelScore 85 32 0
+mergeSuperPixels 140 62 1
+mergeSuperPixels 85 29 2
+mergeSuperPixels 43 9 1
+setLabelScore 34 100 20 211
+getHighestScoredLabel 32 42
+addImage 74
+mergeSuperPixels 43 81 2
+addImage 172
+addImage 85
+addImage 11
+setLabelScore 43 91 97 246
+setLabelScore 250 92 175 -3
+mergeSuperPixels 86 95 104
+setLabelScore 85 18 242 203
+setLabelScore 74 4 79 62
+setLabelScore 140 92 108 216
+mergeSuperPixels 106 49 0
+mergeSuperPixels 44 17 -9
+mergeSuperPixels 30 58 97
+setLabelScore 172 96 50 89
+mergeSuperPixels 162 82 95
+setLabelScore 11 93 35 114
+addImage 43
+setLabelScore 43 42 90 60
+resetLabelScore 86 84 0
+addImage 126
+addImage 238
+mergeSuperPixels 86 82 1
+addImage 160
+setLabelScore 8 9 -5 151
+mergeSuperPixels -1 37 40
+setLabelScore 126 31 22 119
+setLabelScore 124 24 17 189
+setLabelScore 67 68 41 21
+setLabelScore 178 -2 229 85
+setLabelScore 160 79 234 178
+deleteImage 140
+mergeSuperPixels 153 107 88
+setLabelScore 135 54 121 81
+resetLabelScore 126 82 0
+addImage 247
+deleteImage 54
+setLabelScore 160 58 109 135
+mergeSuperPixels 12 79 63
+setLabelScore 92 21 159 177
+addImage 90
+setLabelScore 32 44 201 55
+getHighestScoredLabel 86 13
+addImage 133
+mergeSuperPixels 85 65 3
+addImage 246
+setLabelScore 247 37 25 166
+mergeSuperPixels 124 49 101
+deleteImage -7
+addImage 149
+setLabelScore 247 100 96 76
+mergeSuperPixels 106 33 1
+resetLabelScore 180 99 177
+addImage 39
+resetLabelScore 172 21 0
+setLabelScore 157 76 -8 52
+mergeSuperPixels 91 -9 93
+setLabelScore 238 63 83 29
+addImage 155
+getHighestScoredLabel 106 43
+setLabelScore 90 34 235 224
+deleteImage 106
+addImage 133
+resetLabelScore -1 45 208
+addImage 41
+setLabelScore 155 69 13 119
+addImage 39
+addImage -5
+addImage 94
+setLabelScore 149 61 24 182
+getHighestScoredLabel 32 88
+getHighestScoredLabel 41 37
+setLabelScore 156 87 223 146
+setLabelScore 74 62 66 43
+mergeSuperPixels 238 12 0
+setLabelScore 195 16 -6 72
+getHighestScoredLabel 133 34
+mergeSuperPixels 85 90 4
+setLabelScore 238 92 119 53
+setLabelScore 155 88 230 132
+mergeSuperPixels 214 102 32
+setLabelScore 86 82 180 180
+setLabelScore 39 19 51 169
+getHighestScoredLabel 74 12
+setLabelScore 100 44 166 32
+mergeSuperPixels 238 37 1
+resetLabelScore 171 13 189
+resetLabelScore 55 -8 65
+setLabelScore 41 22 100 72
+setLabelScore 94 49 96 135
+getHighestScoredLabel 11 77
+addImage 237
+setLabelScore 76 87 160 87
+setLabelScore 125 82 65 79
+mergeSuperPixels 90 46 0
+setLabelScore 170 100 56 225
+resetLabelScore 60 74 202
+setLabelScore 52 51 65 119
+resetLabelScore 138 18 171
+addImage 37
+setLabelScore 160 4 182 45
+resetLabelScore 247 54 0
+setLabelScore 24 53 4 -3
+setLabelScore 246 84 3 178
+addImage 123
+setLabelScore 237 93 22 142
+setLabelScore 33 -10 87 223
+mergeSuperPixels -6 40 70
+mergeSuperPixels 74 5 0
+addImage -8
+resetLabelScore 19 98 22
+setLabelScore 85 64 236 168
+mergeSuperPixels 11 52 0
+mergeSuperPixels 113 36 38
+setLabelScore 102 95 230 111
+resetLabelScore 74 42 0
+resetLabelScore 223 98 186
+addImage 27
+setLabelScore 172 35 197 226
+addImage -9
+setLabelScore 155 3 62 2
+addImage 27
+mergeSuperPixels 126 20 0
+setLabelScore 126 20 36 17
+addImage 0
+setLabelScore 115 102 103 175
+setLabelScore 167 103 161 132
+addImage 108
+mergeSuperPixels 221 -5 17
+getHighestScoredLabel 160 34
+mergeSuperPixels 146 9 -8
+getHighestScoredLabel 126 72
+setLabelScore 74 -6 31 8
+mergeSuperPixels 86 76 2
+resetLabelScore 151 3 230
+getHighestScoredLabel 27 7
+resetLabelScore 149 58 0
+mergeSuperPixels 126 27 1
+setLabelScore -5 78 25 43
+addImage 167
+resetLabelScore 231 101 243
+getHighestScoredLabel 41 36
+mergeSuperPixels 156 4 2
+resetLabelScore 74 75 0
+resetLabelScore 36 2 -1
+resetLabelScore 155 95 0
+addImage 127
+setLabelScore 51 26 94 50
+setLabelScore 125 85 -3 93
+setLabelScore 149 29 62 108
+addImage -2
+setLabelScore 123 61 244 155
+addImage -6
+addImage 41
+setLabelScore 237 8 203 186
+resetLabelScore 47 85 -4
+mergeSuperPixels 94 90 0
+mergeSuperPixels 149 38 0
+mergeSuperPixels 17 84 25
+mergeSuperPixels 160 32 0
+setLabelScore 94 38 175 135
+setLabelScore 135 72 157 20
+addImage 34
+setLabelScore 86 98 212 75
+setLabelScore 187 -3 39 152
+getHighestScoredLabel 135 13
+setLabelScore 123 83 117 94
+getHighestScoredLabel 135 48
+mergeSuperPixels 40 -5 30
+mergeSuperPixels 27 1 0
+getHighestScoredLabel 247 2
+setLabelScore 86 82 123 122
+resetLabelScore 26 47 0
+mergeSuperPixels 215 3 -5
+addImage 126
+setLabelScore 246 43 190 161
+mergeSuperPixels 172 57 0
+setLabelScore 160 26 67 227
+addImage 44
+setLabelScore 11 24 173 125
+mergeSuperPixels 37 11 66
+addImage 230
+mergeSuperPixels 233 104 38
+mergeSuperPixels 156 33 3
+resetLabelScore 94 -10 160
+setLabelScore 237 22 161 50
+getHighestScoredLabel 85 31
+setLabelScore 44 49 202 146
+mergeSuperPixels -2 72 6
+mergeSuperPixels 155 41 0
+addImage 41
+getHighestScoredLabel 133 78
+mergeSuperPixels 27 5 1
+setLabelScore 154 7 95 235
+mergeSuperPixels 43 14 3
+addImage 159
+setLabelScore 94 7 123 141
+setLabelScore 94 45 189 189
+setLabelScore 249 27 61 -10
+setLabelScore -10 28 180 151
+getHighestScoredLabel 156 44
+mergeSuperPixels 156 15 2
+setLabelScore -5 19 107 53
+addImage 62
+mergeSuperPixels 41 88 0
+resetLabelScore 206 67 -2
+setLabelScore 50 107 83 97
+addImage -2
+deleteImage 160
+addImage 91
+addImage 89
+setLabelScore 248 88 101 -9
+setLabelScore 41 16 140 182
+setLabelScore 127 10 167 78
+setLabelScore 159 107 222 210
+setLabelScore 74 91 158 5
+resetLabelScore 228 -9 208
+setLabelScore 237 81 26 39
+setLabelScore 86 96 78 131
+mergeSuperPixels 209 35 -7
+mergeSuperPixels 62 9 0
+resetLabelScore 246 63 0
+addImage 245
+addImage 159
+addImage 4
+addImage 73
+setLabelScore 133 86 216 82
+getHighestScoredLabel 4 52
+setLabelScore 86 14 245 76
+setLabelScore 50 77 119 169
+mergeSuperPixels 106 104 90
+addImage 179
+setLabelScore 40 -8 193 29
+setLabelScore 246 31 32 230
+addImage 172
+resetLabelScore 12 102 36
+deleteImage -2
+resetLabelScore -2 1 231
+setLabelScore 44 19 115 41
+mergeSuperPixels 155 32 1
+getHighestScoredLabel 0 103
+setLabelScore 37 59 44 49
+setLabelScore 173 30 -7 158
+mergeSuperPixels 39 22 0
+mergeSuperPixels 27 105 77
+mergeSuperPixels 27 65 2
+mergeSuperPixels 127 70 51
+addImage 72
+setLabelScore 91 43 209 54
+deleteImage 72
+resetLabelScore 133 3 0
+mergeSuperPixels 47 73 101
+mergeSuperPixels 91 14 0
+mergeSuperPixels -6 21 95
+setLabelScore 167 50 62 105
+addImage 237
+deleteImage 126
+resetLabelScore 36 6 37
+mergeSuperPixels 41 43 1
+setLabelScore 166 65 232 76
+addImage 86
+setLabelScore 247 9 118 100
+setLabelScore 162 30 -8 85
+setLabelScore 113 78 236 83
+setLabelScore 167 41 87 128
+mergeSuperPixels 4 26 0
+resetLabelScore 108 4 0
+getHighestScoredLabel 179 4
+mergeSuperPixels 4 77 1
+addImage 47
+resetLabelScore 65 83 120
+mergeSuperPixels 158 98 80
+addImage 0
+getHighestScoredLabel 39 82
+addImage 123
+mergeSuperPixels 185 -8 46
+getHighestScoredLabel 245 56
+mergeSuperPixels 230 17 83
+mergeSuperPixels 89 82 0
+addImage 188
+setLabelScore 6 94 -3 224
+setLabelScore 249 36 44 126
+setLabelScore 246 37 163 51
+setLabelScore 94 1 105 63
+resetLabelScore 102 85 -5
+setLabelScore 27 63 88 -2
+addImage 105
+addImage 157
+addImage 247
+resetLabelScore 172 1 0
+getHighestScoredLabel 0 102
+mergeSuperPixels 149 43 1
+addImage 197
+addImage 20
+addImage 85
+addImage 184
+addImage 85
+mergeSuperPixels 172 13 0
+resetLabelScore -5 83 56
+addImage -3
+mergeSuperPixels 156 61 5
+addImage 56
+addImage 79
+addImage 8
+resetLabelScore 238 104 75
+resetLabelScore 167 52 0
+addImage 151
+resetLabelScore 245 53 0
+getHighestScoredLabel 4 89
+mergeSuperPixels 209 80 100
+setLabelScore 155 37 199 64
+setLabelScore 188 50 82 191
+getHighestScoredLabel 44 17
+addImage 238
+setLabelScore 204 17 151 124
+setLabelScore 28 41 12 48
+addImage 147
+mergeSuperPixels 127 20 0
+setLabelScore 139 89 -6 192
+mergeSuperPixels 249 83 106
+setLabelScore 236 7 -2 103
+getHighestScoredLabel 43 9
+mergeSuperPixels 179 -8 3
+addImage 149
+getHighestScoredLabel 56 77
+mergeSuperPixels 8 62 0
+deleteImage 167
+setLabelScore 89 63 166 148
+mergeSuperPixels 94 49 1
+getHighestScoredLabel 133 0
+getHighestScoredLabel 179 68
+getHighestScoredLabel 184 14
+setLabelScore -3 58 106 192
+getHighestScoredLabel 43 17
+mergeSuperPixels 133 29 0
+mergeSuperPixels 238 38 0
+mergeSuperPixels 48 12 107
+mergeSuperPixels 86 54 3
+resetLabelScore 230 36 0
+resetLabelScore 199 24 189
+setLabelScore 108 83 153 187
+addImage 215
+setLabelScore -8 81 141 238
+getHighestScoredLabel 39 11
+setLabelScore 108 89 129 126
+setLabelScore 161 98 189 10
+setLabelScore 91 34 25 187
+getHighestScoredLabel 230 16
+addImage 188
+setLabelScore 79 89 236 189
+setLabelScore 247 16 172 209
+getHighestScoredLabel 172 21
+addImage 0
+resetLabelScore 149 97 185
+mergeSuperPixels 247 78 0
+setLabelScore 151 10 38 202
+mergeSuperPixels 74 3 1
+addImage 135
+setLabelScore 108 6 205 55
+setLabelScore 29 15 93 -4
+resetLabelScore 149 -3 212
+setLabelScore 132 72 -7 39
+mergeSuperPixels 149 6 0
+setLabelScore 48 99 60 73
+resetLabelScore 4 6 0
+mergeSuperPixels 171 77 -4
+addImage -2
+mergeSuperPixels 62 42 1
+getHighestScoredLabel 39 66
+addImage 233
+setLabelScore 183 73 66 6
+getHighestScoredLabel 135 70
+setLabelScore 42 60 14 39
+setLabelScore 107 79 218 9
+mergeSuperPixels 86 31 4
+mergeSuperPixels 57 103 40
+setLabelScore 149 31 157 213
+mergeSuperPixels 230 49 0
+setLabelScore 221 70 -7 171
+mergeSuperPixels 247 89 1
+addImage 8
+setLabelScore 27 78 50 207
+setLabelScore 37 36 54 217
+mergeSuperPixels 157 82 0
+getHighestScoredLabel 157 89
+resetLabelScore 32 75 0
+addImage 208
+getHighestScoredLabel 233 56
+mergeSuperPixels 157 33 11
+getHighestScoredLabel 155 10
+setLabelScore 179 4 45 91
+setLabelScore 80 36 207 54
+resetLabelScore -1 50 141
+setLabelScore 20 21 16 128
+deleteImage 188
+setLabelScore 230 53 72 216
+addImage 0
+addImage 214
+setLabelScore 43 39 201 94
+mergeSuperPixels 247 47 2
+addImage -5
+setLabelScore 8 61 166 21
+setLabelScore 39 28 195 179
+resetLabelScore 213 49 -3
+mergeSuperPixels 91 64 1
+addImage -4
+setLabelScore 123 32 94 250
+deleteImage 121
+addImage -8
+mergeSuperPixels 27 18 3
+addImage 228
+resetLabelScore 158 83 -6
+addImage 47
+getHighestScoredLabel 8 88
+getHighestScoredLabel 20 33
+mergeSuperPixels 90 15 1
+setLabelScore 73 47 154 96
+setLabelScore 179 62 200 228
+setLabelScore 32 49 -9 239
+setLabelScore 105 34 44 4
+setLabelScore 156 39 106 187
+mergeSuperPixels 20 91 0
+mergeSuperPixels 32 46 0
+resetLabelScore -4 68 193
+mergeSuperPixels 179 21 0
+setLabelScore 27 32 217 4
+setLabelScore 135 65 172 217
+addImage 125
+resetLabelScore 39 95 0
+addImage 0
+getHighestScoredLabel 179 15
+getHighestScoredLabel 90 83
+mergeSuperPixels 159 3 102
+setLabelScore 186 60 -4 213
+setLabelScore 151 11 102 23
+setLabelScore 147 101 10 217
+mergeSuperPixels 82 64 102
+setLabelScore 34 28 204 45
+setLabelScore 155 72 145 232
+resetLabelScore 4 30 0
+mergeSuperPixels 60 63 101
+mergeSuperPixels 86 16 -9
+mergeSuperPixels 208 7 0
+mergeSuperPixels 67 56 75
+addImage 0
+resetLabelScore 78 80 -10
+deleteImage 215
+setLabelScore 228 88 45 200
+addImage 127
+mergeSuperPixels 238 37 1
+mergeSuperPixels 228 69 69
+resetLabelScore -5 54 13
+resetLabelScore 201 -7 61
+mergeSuperPixels 123 2 0
+mergeSuperPixels 232 71 92
+addImage 89
+resetLabelScore 4 55 0
+mergeSuperPixels -9 4 37
+addImage 47
+setLabelScore -3 13 113 90
+resetLabelScore 157 86 0
+resetLabelScore 212 104 226
+addImage 185
+addImage 89
+addImage 199
+setLabelScore 156 59 232 38
+getHighestScoredLabel 135 94
+mergeSuperPixels 159 4 0
+addImage 230
+setLabelScore 27 15 101 55
+setLabelScore 197 76 219 100
+addImage 27
+setLabelScore 90 11 233 196
+getHighestScoredLabel 62 23
+addImage 156
+resetLabelScore 90 31 3
+mergeSuperPixels 227 82 59
+setLabelScore -1 87 219 105
+resetLabelScore 8 60 0
+getHighestScoredLabel 179 56
+addImage 48
+mergeSuperPixels 172 6 1
+resetLabelScore 32 18 0
+addImage 166
+setLabelScore 133 45 12 81
+getHighestScoredLabel 147 56
+mergeSuperPixels 89 20 0
+mergeSuperPixels -1 55 21
+mergeSuperPixels 8 22 1
+getHighestScoredLabel 179 15
+setLabelScore -1 81 32 150
+mergeSuperPixels 244 -5 16
+setLabelScore 238 95 155 48
+setLabelScore 238 1 19 189
+setLabelScore 164 94 35 182
+resetLabelScore 247 17 0
+addImage 155
+mergeSuperPixels 179 34 1
+resetLabelScore 76 98 105
+mergeSuperPixels 237 24 0
+setLabelScore 157 74 228 42
+addImage 16
+getHighestScoredLabel 41 31
+setLabelScore 4 24 51 132
+getHighestScoredLabel 151 55
+setLabelScore 246 41 27 235
+setLabelScore 155 95 41 230
+addImage 43
+addImage 104
+resetLabelScore 221 -9 129
+addImage 105
+addImage -9
+mergeSuperPixels 62 29 2
+mergeSuperPixels -10 53 61
+resetLabelScore 124 -7 40
+resetLabelScore 16 7 0
+setLabelScore 46 40 -1 105
+addImage 66
+addImage 124
+mergeSuperPixels 203 76 -9
+addImage -8
+getHighestScoredLabel 44 88
+getHighestScoredLabel 159 85
+addImage 131
+getHighestScoredLabel 157 29
+addImage 43
+getHighestScoredLabel 246 46
+addImage 125
+mergeSuperPixels 117 16 -4
+setLabelScore -8 48 185 2
+setLabelScore 74 50 34 36
+mergeSuperPixels 66 46 86
+deleteImage 74
+setLabelScore 129 104 57 72
+setLabelScore 193 1 167 156
+setLabelScore 247 7 159 22
+setLabelScore 123 82 220 75
+setLabelScore 214 65 106 21
+setLabelScore 94 33 211 10
+addImage -1
+setLabelScore 215 104 86 146
+mergeSuperPixels 166 25 0
+mergeSuperPixels 149 37 1
+mergeSuperPixels 124 67 0
+setLabelScore 47 76 -7 241
+mergeSuperPixels 103 17 -7
+setLabelScore 100 103 157 59
+resetLabelScore 179 45 0
+resetLabelScore 27 93 0
+setLabelScore 33 52 -6 143
+setLabelScore 85 58 20 244
+mergeSuperPixels 228 102 91
+setLabelScore 246 48 250 4
+getHighestScoredLabel 199 87
+setLabelScore 43 43 16 166
+setLabelScore 44 76 238 108
+getHighestScoredLabel 37 15
+addImage 19
+resetLabelScore 62 33 0
+getHighestScoredLabel 44 0
+setLabelScore 199 67 228 73
+resetLabelScore 202 70 67
+getHighestScoredLabel 199 23
+setLabelScore 91 46 106 181
+resetLabelScore -7 90 2
+mergeSuperPixels 199 35 0
+getHighestScoredLabel 104 96
+addImage -4
+addImage 149
+mergeSuperPixels 228 55 0
+resetLabelScore 8 37 0
+mergeSuperPixels 108 7 0
+setLabelScore 154 103 25 41
+addImage 115
+deleteImage -10
+resetLabelScore 105 42 0
+mergeSuperPixels 91 15 2
+getHighestScoredLabel 66 44
+setLabelScore 73 38 150 46
+mergeSuperPixels 131 90 0
+setLabelScore 245 91 116 35
+mergeSuperPixels -1 36 62
+getHighestScoredLabel 185 94
+setLabelScore 209 88 109 -1
+addImage 215
+setLabelScore 209 65 126 185
+mergeSuperPixels 44 38 93
+resetLabelScore 6 97 51
+setLabelScore 156 57 245 181
+addImage 104
+deleteImage -4
+mergeSuperPixels 157 4 1
+addImage -4
+resetLabelScore 214 2 0
+getHighestScoredLabel 246 81
+addImage 242
+setLabelScore -10 64 130 57
+addImage 238
+mergeSuperPixels 43 64 0
+setLabelScore 215 86 35 233
+addImage 194
+getHighestScoredLabel 214 57
+setLabelScore 32 78 30 226
+setLabelScore 95 28 236 110
+addImage 218
+deleteImage 0
+mergeSuperPixels 238 42 0
+mergeSuperPixels 96 68 -10
+resetLabelScore 124 11 0
+setLabelScore 131 34 141 220
+setLabelScore 184 83 28 127
+resetLabelScore 184 57 0
+mergeSuperPixels 11 31 1
+setLabelScore 191 24 58 -3
+setLabelScore 61 33 130 70
+mergeSuperPixels 155 60 0
+mergeSuperPixels 237 28 1
+setLabelScore 218 83 -4 193
+addImage 87
+setLabelScore 146 -6 16 178
+setLabelScore 208 40 237 69
+getHighestScoredLabel 4 43
+setLabelScore 215 1 130 142
+setLabelScore 184 54 139 53
+getHighestScoredLabel 73 88
+setLabelScore 210 84 132 108
+getHighestScoredLabel 166 91
+setLabelScore 39 42 63 131
+mergeSuperPixels 78 77 98
+mergeSuperPixels 124 6 1
+addImage 90
+getHighestScoredLabel 147 21
+deleteImage 124
+setLabelScore 48 92 141 202
+resetLabelScore -5 65 210
+deleteImage 166
+setLabelScore 41 93 180 7
+setLabelScore 245 36 104 56
+mergeSuperPixels 43 25 1
+setLabelScore 39 29 133 234
+setLabelScore 32 52 118 65
+getHighestScoredLabel 208 67
+mergeSuperPixels 190 41 106
+addImage 27
+setLabelScore 140 -2 108 82
+addImage 27
+getHighestScoredLabel 123 47
+mergeSuperPixels 89 85 35
+addImage 86
+addImage 172
+mergeSuperPixels 8 44 2
+getHighestScoredLabel 47 51
+addImage 46
+resetLabelScore 92 45 190
+setLabelScore 45 3 220 237
+getHighestScoredLabel 0 101
+mergeSuperPixels 242 61 0
+setLabelScore 157 29 128 38
+getHighestScoredLabel 247 95
+setLabelScore 128 7 -8 83
+mergeSuperPixels 115 44 0
+addImage -9
+mergeSuperPixels 39 39 1
+deleteImage 214
+setLabelScore 147 69 26 103
+addImage 87
+setLabelScore 65 13 0 135
+setLabelScore -9 84 216 124
+addImage -6
+setLabelScore 200 44 122 6
+mergeSuperPixels 188 44 36
+setLabelScore 118 9 -4 144
+mergeSuperPixels 16 60 0
+resetLabelScore 41 -9 160
+resetLabelScore 179 101 235
+mergeSuperPixels 154 47 51
+mergeSuperPixels 133 74 1
+addImage 16
+mergeSuperPixels 149 75 19
+setLabelScore 46 81 87 158
+mergeSuperPixels 208 70 1
+resetLabelScore 19 90 0
+setLabelScore 112 -9 180 59
+setLabelScore -2 51 62 222
+mergeSuperPixels 24 29 -4
+setLabelScore -3 47 49 243
+addImage 156
+resetLabelScore 73 10 0
+resetLabelScore 66 29 0
+setLabelScore 127 71 60 21
+mergeSuperPixels 94 39 2
+setLabelScore 193 82 145 52
+resetLabelScore 47 89 0
+getHighestScoredLabel 73 25
+resetLabelScore 218 98 77
+resetLabelScore 127 15 0
+getHighestScoredLabel 151 45
+setLabelScore 228 32 204 5
+resetLabelScore 184 28 0
+deleteImage -2
+mergeSuperPixels 132 71 105
+getHighestScoredLabel 41 67
+mergeSuperPixels 238 53 1
+setLabelScore 237 3 -1 43
+resetLabelScore 85 14 0
+getHighestScoredLabel 172 37
+setLabelScore 61 -10 213 190
+getHighestScoredLabel 8 17
+resetLabelScore 133 77 0
+getHighestScoredLabel 47 86
+setLabelScore 237 54 100 8
+addImage 206
+addImage 4
+addImage 60
+getHighestScoredLabel 4 15
+getHighestScoredLabel 19 56
+resetLabelScore 85 85 0
+setLabelScore 94 82 76 223
+resetLabelScore 113 75 -8
+addImage 20
+setLabelScore 185 30 117 155
+mergeSuperPixels 199 54 1
+setLabelScore -5 11 190 171
+setLabelScore 41 26 67 28
+setLabelScore 185 72 0 177
+setLabelScore 215 58 174 -4
+setLabelScore 184 91 -3 213
+mergeSuperPixels 237 38 2
+mergeSuperPixels 247 51 3
+mergeSuperPixels 34 0 1
+addImage -2
+mergeSuperPixels 125 62 0
+setLabelScore 131 90 94 69
+resetLabelScore -6 28 23
+mergeSuperPixels 90 54 0
+setLabelScore 194 73 223 -9
+setLabelScore 171 90 127 169
+deleteImage 87
+setLabelScore 73 96 16 18
+setLabelScore -3 25 12 151
+mergeSuperPixels 32 8 1
+deleteImage 34
+resetLabelScore 102 51 96
+getHighestScoredLabel 43 1
+resetLabelScore 241 -9 131
+mergeSuperPixels 179 32 2
+resetLabelScore 27 22 0
+setLabelScore 215 70 73 191
+getHighestScoredLabel 185 38
+deleteImage 199
+setLabelScore 104 28 42 123
+getHighestScoredLabel 184 4
+setLabelScore 179 57 58 119
+addImage 66
+setLabelScore 176 49 -1 172
+setLabelScore 47 15 128 29
+setLabelScore 73 15 60 226
+mergeSuperPixels 41 94 2
+mergeSuperPixels 205 14 22
+addImage -3
+getHighestScoredLabel 185 17
+addImage 87
+setLabelScore 44 47 46 131
+mergeSuperPixels 245 33 62
+mergeSuperPixels -10 26 88
+getHighestScoredLabel 157 59
+addImage 204
+resetLabelScore 84 -2 230
+setLabelScore 138 7 -4 242
+addImage 30
+getHighestScoredLabel 0 101
+addImage -2
+addImage 85
+addImage -8
+mergeSuperPixels 94 62 3
+setLabelScore 37 75 243 192
+addImage 241
+mergeSuperPixels 125 -10 36
+setLabelScore 73 67 12 240
+addImage 117
+setLabelScore 147 59 85 87
+addImage 111
+mergeSuperPixels 204 87 20
+setLabelScore 27 11 30 35
+resetLabelScore 115 80 0
+setLabelScore 56 67 12 52
+setLabelScore 43 1 168 153
+setLabelScore 236 -1 248 13
+setLabelScore 27 41 -1 33
+addImage 203
+resetLabelScore 181 -5 111
+mergeSuperPixels 147 74 0
+setLabelScore 16 68 163 22
+addImage 250
+getHighestScoredLabel 155 53
+addImage 158
+setLabelScore 16 54 107 199
+mergeSuperPixels 79 21 0
+getHighestScoredLabel 115 41
+addImage 29
+resetLabelScore 106 -8 170
+setLabelScore 74 69 221 149
+mergeSuperPixels 108 44 1
+setLabelScore 32 28 63 162
+setLabelScore 16 90 49 100
+resetLabelScore 21 -9 240
+setLabelScore 30 53 -10 124
+addImage 242
+setLabelScore 29 61 91 98
+setLabelScore 137 100 129 156
+deleteImage -10
+setLabelScore 105 21 218 155
+getHighestScoredLabel 228 77
+addImage -2
+setLabelScore 240 72 247 2
+mergeSuperPixels 9 100 96
+setLabelScore 184 51 86 101
+addImage 230
+getHighestScoredLabel 238 62
+addImage -3
+getHighestScoredLabel 203 6
+mergeSuperPixels 242 29 1
+resetLabelScore 159 67 0
+setLabelScore 99 94 214 61
+setLabelScore 127 71 213 138
+getHighestScoredLabel 56 42
+setLabelScore 44 71 30 123
+resetLabelScore 7 81 192
+setLabelScore -3 44 16 75
+resetLabelScore 43 22 -2
+addImage 94
+mergeSuperPixels 108 38 2
+deleteImage 43
+setLabelScore 215 22 -6 22
+setLabelScore 115 49 91 -9
+setLabelScore 174 107 3 31
+setLabelScore 37 77 143 11
+addImage 194
+getHighestScoredLabel 39 7
+addImage 170
+mergeSuperPixels 135 35 0
+mergeSuperPixels 26 33 59
+setLabelScore 27 30 61 106
+setLabelScore 29 58 230 0
+addImage 44
+mergeSuperPixels 215 44 51
+deleteImage 73
+setLabelScore 47 86 101 35
+addImage -7
+getHighestScoredLabel 203 48
+setLabelScore 215 30 19 164
+mergeSuperPixels 98 -9 15
+getHighestScoredLabel 197 14
+mergeSuperPixels 208 9 2
+mergeSuperPixels 215 -7 17
+resetLabelScore 99 98 104
+deleteImage 91
+setLabelScore 194 91 184 209
+mergeSuperPixels 247 72 4
+mergeSuperPixels 74 -6 73
+addImage -2
+mergeSuperPixels 86 85 5
+getHighestScoredLabel 133 82
+addImage 37
+mergeSuperPixels 46 72 60
+setLabelScore 147 94 68 55
+getHighestScoredLabel 242 93
+setLabelScore 246 0 204 216
+setLabelScore 0 58 34 139
+setLabelScore 135 69 207 95
+addImage 46
+addImage 87
+deleteImage 15
+resetLabelScore 135 62 0
+mergeSuperPixels 19 95 0
+resetLabelScore 115 69 0
+setLabelScore 124 -10 105 136
+setLabelScore 30 8 25 216
+setLabelScore 157 17 179 84
+mergeSuperPixels 194 36 0
+resetLabelScore 108 61 0
+addImage 222
+setLabelScore 79 16 226 198
+setLabelScore 194 76 32 195
+mergeSuperPixels 241 35 -8
+addImage 155
+setLabelScore 242 59 129 42
+mergeSuperPixels 27 96 0
+mergeSuperPixels 155 79 1
+getHighestScoredLabel 117 94
+setLabelScore 246 63 154 20
+addImage 149
+mergeSuperPixels 241 -3 74
+mergeSuperPixels 191 -4 85
+resetLabelScore 147 32 0
+setLabelScore -8 48 219 94
+setLabelScore 208 81 37 154
+mergeSuperPixels 246 73 0
+mergeSuperPixels 179 62 3
+setLabelScore 90 82 177 169
+getHighestScoredLabel 108 16
+mergeSuperPixels 230 38 0
+setLabelScore 176 6 200 250
+mergeSuperPixels 90 83 21
+setLabelScore 230 87 120 208
+setLabelScore 29 81 147 143
+setLabelScore 30 93 -4 168
+resetLabelScore 181 -6 71
+mergeSuperPixels 170 12 0
+resetLabelScore 29 106 211
+addImage 8
+setLabelScore 151 43 162 62
+addImage 50
+mergeSuperPixels 158 10 0
+getHighestScoredLabel 155 56
+mergeSuperPixels 239 100 64
+setLabelScore -9 42 18 240
+setLabelScore 11 88 223 227
+addImage 66
+mergeSuperPixels 156 33 6
+setLabelScore 9 29 143 163
+mergeSuperPixels 115 -4 94
+resetLabelScore 37 4 0
+mergeSuperPixels 166 28 60
+getHighestScoredLabel 60 24
+mergeSuperPixels 203 71 0
+addImage 134
+getHighestScoredLabel 37 46
+resetLabelScore 126 56 154
+addImage -7
+mergeSuperPixels 20 12 77
+resetLabelScore 138 26 5
+resetLabelScore 134 8 0
+setLabelScore 15 -1 137 162
+addImage 235
+addImage 93
+addImage 0
+resetLabelScore 230 104 201
+setLabelScore 185 1 192 122
+getHighestScoredLabel 48 11
+addImage 56
+setLabelScore 206 75 62 178
+addImage -8
+mergeSuperPixels 191 103 91
+addImage 133
+mergeSuperPixels 39 51 2
+mergeSuperPixels 203 32 1
+getHighestScoredLabel 135 24
+setLabelScore 133 48 195 66
+getHighestScoredLabel 20 1
+resetLabelScore 210 97 43
+setLabelScore 184 39 122 72
+resetLabelScore 206 67 0
+mergeSuperPixels 176 3 -3
+addImage 94
+addImage -9
+resetLabelScore 230 31 0
+deleteImage -7
+getHighestScoredLabel 19 38
+setLabelScore 250 25 133 57
+setLabelScore 241 1 80 98
+resetLabelScore 197 11 0
+mergeSuperPixels 194 0 1
+resetLabelScore 119 82 38
+mergeSuperPixels -3 15 33
+mergeSuperPixels 29 14 0
+getHighestScoredLabel 46 76
+getHighestScoredLabel 0 104
+setLabelScore 44 78 226 96
+resetLabelScore 132 89 126
+mergeSuperPixels 228 2 1
+setLabelScore 248 58 -7 159
+getHighestScoredLabel 218 41
+setLabelScore 0 14 193 177
+setLabelScore 0 89 171 213
+addImage 93
+mergeSuperPixels 250 92 89
+addImage 170
+resetLabelScore -7 62 101
+addImage -10
+mergeSuperPixels 242 47 2
+mergeSuperPixels 245 90 0
+addImage 85
+setLabelScore 166 102 250 249
+addImage 227
+addImage 5
+setLabelScore 247 76 246 173
+mergeSuperPixels 6 20 52
+getHighestScoredLabel 250 91
+addImage -8
+mergeSuperPixels 104 77 0
+setLabelScore -1 20 173 41
+addImage 18
+setLabelScore 32 27 128 -10
+getHighestScoredLabel 4 76
+setLabelScore 4 61 213 182
+mergeSuperPixels -10 96 92
+mergeSuperPixels 208 88 3
+mergeSuperPixels 66 18 0
+resetLabelScore 29 51 0
+mergeSuperPixels 17 21 27
+setLabelScore 19 14 12 77
+setLabelScore 86 66 15 83
+setLabelScore 32 52 249 175
+addImage 238
+resetLabelScore 197 87 0
+mergeSuperPixels -3 65 84
+resetLabelScore 202 105 205
+addImage 0
+resetLabelScore 208 40 0
+setLabelScore 30 54 3 204
+mergeSuperPixels 47 67 12
+addImage 39
+setLabelScore 204 12 163 117
+setLabelScore 44 11 123 216
+addImage 80
+setLabelScore 237 82 103 127
+mergeSuperPixels 217 16 101
+mergeSuperPixels 32 72 -2
+resetLabelScore 17 73 -6
+setLabelScore -1 80 81 160
+setLabelScore 207 38 43 162
+setLabelScore 117 56 28 97
+addImage 19
+setLabelScore 179 58 24 215
+addImage 176
+setLabelScore 155 42 126 85
+addImage 84
+mergeSuperPixels 135 97 57
+resetLabelScore 136 -10 156
+setLabelScore 135 47 240 0
+setLabelScore 0 56 233 136
+resetLabelScore 47 71 80
+resetLabelScore 151 83 0
+mergeSuperPixels 84 32 0
+setLabelScore -3 88 40 107
+resetLabelScore 26 -1 238
+addImage 181
+getHighestScoredLabel 41 31
+setLabelScore 178 68 89 245
+setLabelScore 127 79 81 -10
+getHighestScoredLabel 115 7
+resetLabelScore 221 54 149
+resetLabelScore 131 40 0
+addImage -2
+setLabelScore 2 97 216 12
+mergeSuperPixels 79 0 1
+addImage -8
+setLabelScore 18 78 247 153
+resetLabelScore 171 102 40
+getHighestScoredLabel 185 8
+setLabelScore -1 61 162 230
+setLabelScore 156 99 35 18
+mergeSuperPixels 48 76 0
+setLabelScore 235 77 196 44
+setLabelScore 111 83 180 147
+addImage 95
+mergeSuperPixels 7 70 -9
+addImage 96
+mergeSuperPixels 90 41 1
+setLabelScore 60 90 158 100
+resetLabelScore 105 8 0
+mergeSuperPixels 32 66 2
+setLabelScore 16 49 63 43
+deleteImage 206
+setLabelScore 56 103 190 20
+addImage 204
+addImage -4
+setLabelScore 60 80 102 112
+setLabelScore 242 6 162 205
+addImage -1
+resetLabelScore 147 22 0
+resetLabelScore 147 46 0
+mergeSuperPixels -7 57 85
+addImage 59
+addImage 181
+setLabelScore 85 93 144 239
+setLabelScore 18 94 249 17
+addImage 20
+mergeSuperPixels 59 51 0
+resetLabelScore 221 55 139
+setLabelScore 32 47 87 75
+setLabelScore 41 51 -7 180
+getHighestScoredLabel 16 25
+addImage 102
+mergeSuperPixels 102 34 0
+setLabelScore 186 89 126 -7
+addImage 167
+setLabelScore 250 86 154 98
+setLabelScore 135 52 32 70
+getHighestScoredLabel 50 82
+mergeSuperPixels 105 93 22
+getHighestScoredLabel 60 53
+mergeSuperPixels 218 38 0
+setLabelScore 197 85 151 15
+mergeSuperPixels 222 82 0
+setLabelScore 170 80 31 7
+addImage 104
+getHighestScoredLabel 125 1
+addImage 238
+setLabelScore 142 15 -9 230
+getHighestScoredLabel 87 26
+addImage 171
+getHighestScoredLabel 8 47
+addImage 158
+addImage 58
+getHighestScoredLabel 215 46
+setLabelScore 155 51 90 18
+mergeSuperPixels 154 2 38
+setLabelScore 218 6 134 36
+setLabelScore 157 85 114 232
+setLabelScore 21 29 187 7
+setLabelScore 134 9 216 161
+addImage 110
+setLabelScore 154 58 184 196
+setLabelScore 110 87 236 97
+getHighestScoredLabel 87 29
+mergeSuperPixels 86 43 6
+getHighestScoredLabel 171 5
+mergeSuperPixels 59 60 1
+addImage 210
+setLabelScore 108 35 144 2
+addImage 44
+addImage 144
+mergeSuperPixels 176 94 0
+mergeSuperPixels 111 1 0
+mergeSuperPixels 250 1 0
+mergeSuperPixels 237 58 3
+setLabelScore 218 50 170 166
+mergeSuperPixels 102 53 1
+resetLabelScore 4 46 0
+resetLabelScore 230 7 0
+setLabelScore 176 30 26 106
+setLabelScore 41 14 168 52
+mergeSuperPixels 155 91 2
+mergeSuperPixels 94 94 4
+mergeSuperPixels 133 61 0
+mergeSuperPixels 149 29 0
+resetLabelScore 86 7 0
+setLabelScore 35 15 54 100
+addImage 209
+getHighestScoredLabel 238 73
+resetLabelScore 102 6 8
+setLabelScore 11 2 101 59
+setLabelScore 21 28 -4 23
+mergeSuperPixels 64 6 19
+setLabelScore 117 2 232 226
+setLabelScore 5 77 245 147
+setLabelScore 58 93 86 180
+addImage 156
+setLabelScore 176 12 23 44
+mergeSuperPixels 93 58 0
+deleteImage -2
+addImage 79
+setLabelScore 237 87 50 243
+setLabelScore 69 96 30 163
+getHighestScoredLabel 80 28
+setLabelScore 163 2 114 0
+setLabelScore 168 21 209 0
+setLabelScore 136 14 -3 4
+setLabelScore 55 77 -7 177
+resetLabelScore 48 18 -7
+setLabelScore 184 94 221 68
+setLabelScore 194 87 191 68
+setLabelScore 11 73 -10 129
+setLabelScore 11 9 102 93
+addImage 59
+setLabelScore 63 18 159 48
+setLabelScore 204 34 102 -6
+mergeSuperPixels -2 63 38
+addImage 138
+mergeSuperPixels 247 44 104
+resetLabelScore 171 32 -6
+setLabelScore 54 6 246 33
+addImage 160
+setLabelScore 181 45 182 95
+setLabelScore 123 67 249 67
+deleteImage 168
+setLabelScore 151 50 145 40
+addImage -5
+setLabelScore 153 -5 190 133
+mergeSuperPixels 127 30 0
+mergeSuperPixels 218 44 1
+resetLabelScore 240 88 212
+mergeSuperPixels 138 85 0
+setLabelScore 119 27 -2 27
+mergeSuperPixels 78 42 97
+mergeSuperPixels 43 10 -8
+setLabelScore 44 78 19 95
+mergeSuperPixels 210 86 0
+mergeSuperPixels 149 34 63
+addImage 66
+resetLabelScore 96 8 0
+addImage 149
+setLabelScore 228 102 227 212
+mergeSuperPixels 179 -8 86
+getHighestScoredLabel 90 3
+mergeSuperPixels 117 4 0
+addImage 78
+mergeSuperPixels 18 8 0
+getHighestScoredLabel 230 36
+getHighestScoredLabel 80 31
+setLabelScore 198 7 -4 229
+setLabelScore 144 90 88 231
+getHighestScoredLabel 8 93
+addImage 219
+resetLabelScore 250 102 38
+setLabelScore 92 17 119 37
+resetLabelScore 44 71 0
+setLabelScore 147 10 72 9
+mergeSuperPixels -2 22 94
+mergeSuperPixels 233 54 44
+getHighestScoredLabel 5 21
+getHighestScoredLabel 209 36
+mergeSuperPixels 238 40 0
+mergeSuperPixels 228 70 91
+getHighestScoredLabel 85 8
+mergeSuperPixels 79 18 0
+addImage 84
+addImage -10
+getHighestScoredLabel 60 9
+setLabelScore 114 78 195 229
+mergeSuperPixels 219 80 0
+getHighestScoredLabel 176 85
+getHighestScoredLabel 87 35
+resetLabelScore 62 20 0
+getHighestScoredLabel 203 82
+mergeSuperPixels 127 13 1
+addImage 134
+setLabelScore 245 76 203 157
+setLabelScore 66 22 13 146
+setLabelScore 101 42 195 19
+mergeSuperPixels 8 31 0
+mergeSuperPixels 151 4 0
+getHighestScoredLabel 194 14
+addImage 237
+mergeSuperPixels 157 87 2
+resetLabelScore 39 90 0
+setLabelScore 131 95 100 157
+mergeSuperPixels 79 73 1
+resetLabelScore 84 45 0
+addImage 136
+mergeSuperPixels 176 66 1
+setLabelScore 241 60 146 180
+setLabelScore 0 12 150 225
+getHighestScoredLabel 241 2
+resetLabelScore 39 32 0
+setLabelScore 204 1 231 104
+setLabelScore 232 30 75 67
+mergeSuperPixels 181 106 84
+addImage 80
+mergeSuperPixels 155 64 3
+setLabelScore 206 5 237 1
+getHighestScoredLabel 110 92
+setLabelScore 104 65 100 75
+setLabelScore -1 62 158 240
+addImage 170
+mergeSuperPixels 247 32 -1
+addImage 153
+mergeSuperPixels 27 25 1
+setLabelScore 115 88 34 30
+setLabelScore 61 80 -4 132
+mergeSuperPixels 209 31 0
+mergeSuperPixels 237 68 4
+mergeSuperPixels 246 23 1
+resetLabelScore 164 -9 107
+getHighestScoredLabel 135 55
+mergeSuperPixels 86 40 7
+setLabelScore 235 93 133 50
+setLabelScore 245 40 226 199
+addImage 144
+resetLabelScore 26 34 222
+addImage 88
+mergeSuperPixels 16 76 1
+mergeSuperPixels 93 90 26
+setLabelScore 172 28 58 152
+setLabelScore 20 86 77 116
+resetLabelScore 159 15 33
+getHighestScoredLabel 203 23
+setLabelScore 247 7 247 166
+mergeSuperPixels 4 33 77
+getHighestScoredLabel 209 7
+mergeSuperPixels 14 86 80
+setLabelScore 20 5 116 89
+getHighestScoredLabel 80 1
+setLabelScore 79 99 212 10
+addImage 175
+deleteImage 197
+mergeSuperPixels 242 81 3
+setLabelScore 50 5 64 100
 quit

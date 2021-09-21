@@ -1,7 +1,3 @@
-init 8120
-addImage 5202
-addImage 977
-getHighestScoredLabel 5202 7691
-resetLabelScore 5495 7089 -3
-addImage 9595
+init 130
+setLabelScore 167 98 0 186
 quit

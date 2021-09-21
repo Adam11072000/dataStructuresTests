@@ -1,6 +1,16 @@
-init 2905
-deleteImage 161
-addImage 7019
-addImage 0
-addImage -1
+init 47
+deleteImage 120
+addImage 22
+getHighestScoredLabel 22 2
+resetLabelScore 6 50 44
+addImage 188
+getHighestScoredLabel 188 20
+deleteImage 22
+deleteImage 188
+mergeSuperPixels 212 10 -2
+mergeSuperPixels 213 -6 25
+resetLabelScore 190 -3 26
+mergeSuperPixels 206 35 6
+addImage 221
+addImage -4
 quit

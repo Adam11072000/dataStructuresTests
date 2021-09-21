@@ -1,3 +1,2 @@
-init 5418
-setLabelScore 8746 5423 3784 4260
+init 242
 quit

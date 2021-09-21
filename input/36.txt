@@ -1,2 +1,5 @@
-init 2137
+init 28
+deleteImage -8
+deleteImage 42
+deleteImage 114
 quit

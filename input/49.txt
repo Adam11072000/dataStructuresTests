@@ -1,82 +1,20 @@
-init 633
-resetLabelScore 241 637 8545
-deleteImage -7
-setLabelScore 9961 297 0 253
-addImage 2227
-addImage -3
-addImage -10
-addImage 9229
-addImage 2227
-setLabelScore 2227 386 1512 655
-addImage 9229
-addImage 9229
-addImage 9068
-deleteImage 6048
-getHighestScoredLabel 9229 2
-addImage 4295
-resetLabelScore 5510 134 -1
-setLabelScore 9229 64 7327 5342
-getHighestScoredLabel 9068 78
-getHighestScoredLabel 2227 247
-addImage 9068
-addImage 539
-getHighestScoredLabel 2227 428
-setLabelScore 7949 192 6242 2872
-setLabelScore 9068 444 1586 1150
-mergeSuperPixels 4295 375 0
-setLabelScore -9 92 4003 6358
-getHighestScoredLabel 9229 491
-resetLabelScore 4295 492 0
-setLabelScore 1821 318 6147 5739
-mergeSuperPixels 4295 292 1
-mergeSuperPixels 2227 573 0
-getHighestScoredLabel 539 577
-setLabelScore 2227 277 9040 2113
-addImage 1719
-mergeSuperPixels 1719 506 0
-deleteImage 4295
-setLabelScore 2227 536 9263 6984
-setLabelScore 9068 181 3696 52
-setLabelScore 1719 497 5671 9820
-mergeSuperPixels 6697 307 643
-resetLabelScore 4959 30 809
-mergeSuperPixels 2227 409 1
-setLabelScore 539 585 7524 2563
-mergeSuperPixels 1432 -4 482
-addImage 4926
-setLabelScore 1719 363 1177 3372
-setLabelScore 9068 94 1692 1939
-resetLabelScore 1438 642 5345
-addImage 1999
-resetLabelScore 1719 419 0
-addImage -7
-addImage 7977
-setLabelScore 9068 125 3900 9892
-setLabelScore 9068 525 3534 6151
-resetLabelScore 3719 301 6468
-resetLabelScore 1719 387 0
-resetLabelScore 4926 120 0
-addImage 9616
-mergeSuperPixels 9616 577 0
-getHighestScoredLabel 2227 623
-getHighestScoredLabel 1999 274
-setLabelScore 7977 299 9553 2544
-setLabelScore 2227 410 2675 1897
-addImage 9068
-mergeSuperPixels 1719 162 60
-addImage 5468
-mergeSuperPixels 7977 441 0
-mergeSuperPixels -3 483 234
-setLabelScore 1990 635 7618 2172
-mergeSuperPixels 8033 -8 507
-setLabelScore 539 146 5567 5836
-getHighestScoredLabel 9229 472
-addImage -6
-setLabelScore 9616 368 1107 2063
-addImage 3514
-setLabelScore 5468 321 5965 1227
-resetLabelScore 2546 638 2115
-resetLabelScore -3 328 173
-setLabelScore 3502 620 3984 5384
-resetLabelScore 3995 415 -6
+init 239
+addImage 113
+addImage -8
+setLabelScore 10 230 -3 207
+mergeSuperPixels 196 101 -2
+addImage 143
+deleteImage 143
+mergeSuperPixels 113 8 0
+deleteImage -1
+getHighestScoredLabel 113 159
+addImage 67
+deleteImage 201
+resetLabelScore 214 -8 57
+setLabelScore 113 175 46 166
+deleteImage 113
+resetLabelScore 49 242 26
+deleteImage -6
+addImage 67
+addImage 67
 quit

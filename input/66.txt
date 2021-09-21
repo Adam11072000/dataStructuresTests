@@ -1,3 +1,15 @@
-init 6981
-getHighestScoredLabel 0 6991
+init 212
+deleteImage 122
+addImage -10
+deleteImage 45
+setLabelScore 47 91 224 243
+mergeSuperPixels 46 129 215
+setLabelScore 124 180 5 119
+deleteImage -4
+addImage 242
+addImage 127
+getHighestScoredLabel 242 1
+mergeSuperPixels 96 123 -7
+setLabelScore 127 88 84 57
+addImage 211
 quit
