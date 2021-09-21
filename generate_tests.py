@@ -4,7 +4,7 @@ import generate_output as GO
 NUM_OF_TESTS = 100
 BASE_DIR = ""
 CURRENT_IMAGES = {}
-MAX_ID = 10000
+MAX_ID = 250
 
 
 def add_image(num_pixels):
@@ -286,7 +286,7 @@ OPS_DICT = {
     'quit': {'func': None, 'prob': 0.001, 'prob_when_empty': 0.1},
     'addImage': {'func': add_image, 'prob': 0.35, 'prob_when_empty': 0.5},
     'deleteImage': {'func': delete_image, 'prob': 0.05, 'prob_when_empty': 0.1},
-    'setLabelScore': {'func': set_label_score, 'prob': 0.45, 'prob_when_empty': 0.1},
+    'setLabelScore': {'func': set_label_score, 'prob': 0.55, 'prob_when_empty': 0.1},
     'resetLabelScore': {'func': reset_label_score, 'prob': 0.3, 'prob_when_empty': 0.1},
     'getHighestScoredLabel': {'func': get_highest_scored_label, 'prob': 0.2, 'prob_when_empty': 0.1},
     'mergeSuperPixels': {'func': merge_super_pixels, 'prob': 0.4, 'prob_when_empty': 0.1}
