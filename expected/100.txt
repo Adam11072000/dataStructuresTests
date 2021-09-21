@@ -1,5 +1,2 @@
 init done.
-addImage: SUCCESS
-resetLabelScore: INVALID_INPUT
-addImage: FAILURE
 quit done.

@@ -1,9 +1,6 @@
 init done.
-addImage: SUCCESS
-setLabelScore: SUCCESS
-getHighestScoredLabel: FAILURE
+mergeSuperPixels: INVALID_INPUT
 addImage: INVALID_INPUT
 addImage: SUCCESS
-addImage: SUCCESS
-resetLabelScore: INVALID_INPUT
+addImage: FAILURE
 quit done.

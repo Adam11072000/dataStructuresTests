@@ -1,7 +1,3 @@
 init done.
-addImage: INVALID_INPUT
-mergeSuperPixels: INVALID_INPUT
-setLabelScore: INVALID_INPUT
-resetLabelScore: FAILURE
-deleteImage: FAILURE
+addImage: SUCCESS
 quit done.

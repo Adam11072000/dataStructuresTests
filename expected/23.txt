@@ -1,9 +1,7 @@
 init done.
-setLabelScore: INVALID_INPUT
-resetLabelScore: FAILURE
+addImage: SUCCESS
+setLabelScore: SUCCESS
+addImage: SUCCESS
 addImage: SUCCESS
 addImage: FAILURE
-addImage: SUCCESS
-addImage: FAILURE
-setLabelScore: INVALID_INPUT
 quit done.

@@ -1,3 +1,8 @@
 init done.
+addImage: SUCCESS
+setLabelScore: SUCCESS
+deleteImage: FAILURE
+resetLabelScore: FAILURE
 setLabelScore: INVALID_INPUT
+deleteImage: INVALID_INPUT
 quit done.

@@ -1,3 +1,2 @@
 init done.
-setLabelScore: INVALID_INPUT
 quit done.

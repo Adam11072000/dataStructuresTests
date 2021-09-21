@@ -1,6 +1,16 @@
 init done.
 deleteImage: FAILURE
 addImage: SUCCESS
-addImage: INVALID_INPUT
+getHighestScoredLabel: FAILURE
+resetLabelScore: INVALID_INPUT
+addImage: SUCCESS
+getHighestScoredLabel: FAILURE
+deleteImage: SUCCESS
+deleteImage: SUCCESS
+mergeSuperPixels: INVALID_INPUT
+mergeSuperPixels: INVALID_INPUT
+resetLabelScore: INVALID_INPUT
+mergeSuperPixels: FAILURE
+addImage: SUCCESS
 addImage: INVALID_INPUT
 quit done.

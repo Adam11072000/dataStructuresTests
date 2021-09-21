@@ -1,10 +1,2 @@
 init done.
-addImage: SUCCESS
-mergeSuperPixels: INVALID_INPUT
-getHighestScoredLabel: FAILURE
-addImage: SUCCESS
-mergeSuperPixels: SUCCESS
-getHighestScoredLabel: FAILURE
-getHighestScoredLabel: FAILURE
-addImage: FAILURE
 quit done.

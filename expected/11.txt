@@ -1,10 +1,2 @@
 init done.
-addImage: SUCCESS
-getHighestScoredLabel: FAILURE
-getHighestScoredLabel: FAILURE
-resetLabelScore: INVALID_INPUT
-addImage: INVALID_INPUT
-setLabelScore: SUCCESS
-addImage: INVALID_INPUT
-resetLabelScore: FAILURE
 quit done.

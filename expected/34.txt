@@ -1,3 +1,17 @@
 init done.
+addImage: INVALID_INPUT
+addImage: INVALID_INPUT
+addImage: SUCCESS
+addImage: INVALID_INPUT
+resetLabelScore: INVALID_INPUT
+resetLabelScore: INVALID_INPUT
 deleteImage: INVALID_INPUT
+resetLabelScore: INVALID_INPUT
+resetLabelScore: INVALID_INPUT
+getHighestScoredLabel: FAILURE
+setLabelScore: INVALID_INPUT
+addImage: SUCCESS
+resetLabelScore: INVALID_INPUT
+deleteImage: INVALID_INPUT
+addImage: INVALID_INPUT
 quit done.

@@ -1,2 +1,12 @@
 init done.
+deleteImage: FAILURE
+resetLabelScore: FAILURE
+getHighestScoredLabel: INVALID_INPUT
+mergeSuperPixels: INVALID_INPUT
+setLabelScore: INVALID_INPUT
+addImage: SUCCESS
+resetLabelScore: INVALID_INPUT
+mergeSuperPixels: SUCCESS
+addImage: INVALID_INPUT
+addImage: INVALID_INPUT
 quit done.

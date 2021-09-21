@@ -1,2 +1,6 @@
 init done.
+addImage: SUCCESS
+getHighestScoredLabel: FAILURE
+mergeSuperPixels: SUCCESS
+addImage: INVALID_INPUT
 quit done.

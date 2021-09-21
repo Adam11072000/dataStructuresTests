@@ -1,12 +1,3 @@
 init done.
-addImage: INVALID_INPUT
-addImage: SUCCESS
-deleteImage: SUCCESS
-resetLabelScore: INVALID_INPUT
-addImage: INVALID_INPUT
-addImage: INVALID_INPUT
-addImage: INVALID_INPUT
-addImage: INVALID_INPUT
-addImage: SUCCESS
-addImage: FAILURE
+resetLabelScore: FAILURE
 quit done.
